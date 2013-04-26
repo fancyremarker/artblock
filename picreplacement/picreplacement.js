@@ -78,7 +78,7 @@ _replace: function(el) {
   var iframe = document.createElement("iframe");
   iframe.style["height"] = t.y + "px";
   iframe.style["width"] = t.x + "px";
-  iframe.src = "//adsy.dev/?w=" + t.x + "&h=" + t.y;
+  iframe.src = "http://ads.artsy.net/?w=" + t.x + "&h=" + t.y;
   iframe.style["border"] = "none";
   iframe.style["padding"] = "none";
   iframe.style["margin"] = "none";
