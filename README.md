@@ -19,3 +19,12 @@ More Info
 * [Original AdBlock FAQ](http://code.google.com/p/adblockforchrome/wiki/FrequentlyAskedQuestions)
 * [Original AdBlock Help](http://code.google.com/p/adblockforchrome/wiki/GetHelp?tm=3)
 * [Support AdBlock!](https://chromeadblock.com/pay/)
+
+License
+-------
+
+ArtBlock is licensed for use under the [GPL v3](http://www.gnu.org/licenses/gpl.html).
+
+Authors
+-------
+ArtBlock is written by [Frank Macreery](http://github.com/macreery), and is in no way affiliated with either Artsy, Inc. or AdBlock.
