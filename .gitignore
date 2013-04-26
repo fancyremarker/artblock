@@ -1,0 +1,14 @@
+.DS_Store
+*~
+*#
+.#*
+.rvmrc
+.powrc
+.pryrc
+.irbrc
+.bundle
+log/*
+tmp/*
+dump/*
+*.sublime-project
+*.sublime-workspace

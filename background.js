@@ -7,7 +7,7 @@
       show_context_menu_items: true,
       show_advanced_options: false,
       use_webrequest_blocking: false,
-      do_picreplacement: false,
+      do_picreplacement: true,
     };
     // Opt in Chrome 17 users to webRequest.
     if (chrome.webRequest)
@@ -219,8 +219,7 @@
           // receive this or not.  Because the #anchor of a page can change without navigating
           // the frame, ignore the anchor when matching.
           var frameUrl = frameData.get(tabId, requestingFrameId).url.replace(/#.*$/, "");
-          var picreplacement_enabled = picreplacement_checker.enabled(frameUrl);
-          chrome.tabs.sendRequest(tabId, { command: "block-results", picreplacement_enabled: picreplacement_enabled, frameUrl: frameUrl, results: results });
+          chrome.tabs.sendRequest(tabId, { command: "block-results", picreplacement_enabled: true, frameUrl: frameUrl, results: results });
         }
 
         log("[DEBUG]", "Block result", blocked, details.type, frameDomain, details.url.substring(0, 100));
@@ -521,7 +520,6 @@
           disabled: "img/icon19-grayscale.png",
           whitelisted: "img/icon19-whitelisted.png"
         };
-        icons = picreplacement_checker.get_icons(icons, info.tab.url);
         if (sessionStorage.adblock_is_paused) {
           chrome.browserAction.setIcon({path:icons.disabled, tabId: info.tab.id});
         } else if (info.disabled_site &&
@@ -665,7 +663,7 @@
           allFrames: true,
           include: [
             "jquery/jquery.min.js",
-            // we must get jQuery into every frame, but that clobbers 
+            // we must get jQuery into every frame, but that clobbers
             // jquery UI installed by top_open_blacklist_ui but not
             // needed by us.  Reinstall on top_open_blacklist_ui's behalf.
             "jquery/jquery-ui.custom.min.js",
