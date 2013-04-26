@@ -1,6 +1,6 @@
 $(function() {
   localizePage();
-  
+
   // Sort the languages list
   var languageOptions = $("#step2_lang option");
   languageOptions.sort(function(a,b) {
@@ -80,11 +80,11 @@ function generateReportURL() {
   body.push("=== Subscribed filters ===");
   body.push(subscribed_filter_names.join('\n'));
   body.push("");
-  body.push("=== Browser" + (AdBlockVersion ? ' & AdBlock' : '') + ": ===");
+  body.push("=== Browser" + (AdBlockVersion ? ' & ArtBlock' : '') + ": ===");
   body.push(SAFARI ? "Safari " :
     "Google Chrome " + navigator.userAgent.match('Chrome\/([0-9.]+)')[1]);
   if (AdBlockVersion)
-    body.push("AdBlock " + AdBlockVersion);
+    body.push("ArtBlock " + AdBlockVersion);
   body.push("");
   body.push("=== Enabled settings ===");
   body.push(enabled_settings.join('\n'));

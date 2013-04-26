@@ -5,15 +5,15 @@
    },
    "adblock_auto_removes_ads_thats_all": {
       "description": "Install page: explaining how to use adblock.",
-      "message": " AdBlock fjerner annonser automatisk.  Det er alt."
+      "message": " ArtBlock fjerner annonser automatisk.  Det er alt."
    },
    "adblock_is_paused": {
       "description": "resourceblocking page string",
-      "message": "AdBlock er satt p\u00E5 pause. Derfor er ingen ressurser fanget, s\u00E5 denne siden kan ikke bli brukt. Start AdBlock f\u00F8rst og pr\u00F8v igjen."
+      "message": "ArtBlock er satt p\u00E5 pause. Derfor er ingen ressurser fanget, s\u00E5 denne siden kan ikke bli brukt. Start ArtBlock f\u00F8rst og pr\u00F8v igjen."
    },
    "adblockreportinganad": {
       "description": "title of ad report page",
-      "message": "AdBlock - Rapporter en annonse"
+      "message": "ArtBlock - Rapporter en annonse"
    },
    "addthisfilter": {
       "description": "resourceblocking page string",
@@ -217,7 +217,7 @@
    },
    "checkinfirefox3": {
       "description": "instruction for how to check Firefox for a reported ad",
-      "message": "I Firefox, abboner p\u00E5 de samme filter listene som du har her (bortsett fra AdBlock-tilpassede filtere)."
+      "message": "I Firefox, abboner p\u00E5 de samme filter listene som du har her (bortsett fra ArtBlock-tilpassede filtere)."
    },
    "checkinfirefox4": {
       "description": "instruction for how to check Firefox for a reported ad",
@@ -228,7 +228,7 @@
       "message": "Kan du se annonsen i Firefox?"
    },
    "chromebutton_how_to_hide": {
-      "description": "Message explaining how to hide the AdBlock toolbar button.  'Hide Button' should match the text that Chrome displays when you right click a toolbar button.",
+      "description": "Message explaining how to hide the ArtBlock toolbar button.  'Hide Button' should match the text that Chrome displays when you right click a toolbar button.",
       "message": "For \u00E5 skjule knappen, h\u00F8yreklikk p\u00E5 den og velg 'Skjul knapp'.  Du kan vise den igjen under Skiften\u00F8kkel | Verkt\u00F8y | Utvidelser."
    },
    "cleanuplist": {
@@ -273,7 +273,7 @@
    },
    "debuginlogoption": {
       "description": "Option on first tab page",
-      "message": "Vis feils\u00F8kningsopplysninger i Konsoll (som vil gj\u00F8re AdBlock tregere)"
+      "message": "Vis feils\u00F8kningsopplysninger i Konsoll (som vil gj\u00F8re ArtBlock tregere)"
    },
    "description1": {
       "description": "Extension description in manifest",
@@ -285,11 +285,11 @@
    },
    "disabled_by_filter_lists": {
       "description": "Message shown when a user tries to unwhitelist a web page that has been whitelisted by a rule in a subscribed filter list.",
-      "message": "Beklager, AdBlock er deaktivert p\u00E5 denne siden av en av dine filerlister."
+      "message": "Beklager, ArtBlock er deaktivert p\u00E5 denne siden av en av dine filerlister."
    },
    "disabled_on_this_page": {
       "description": "Message shown in toolbar button on web pages that have been whitelisted.",
-      "message": "AdBlock er deaktivert p\u00E5 denne siden."
+      "message": "ArtBlock er deaktivert p\u00E5 denne siden."
    },
    "done": {
       "description": "Install page: appended to the 'installing_adblock' message once the progress bar reaches 100%",
@@ -309,7 +309,7 @@
    },
    "excludedomainorurl": {
       "description": "Message of the exclude area",
-      "message": "Domenet eller urlen hvor AdBlock ikke skal blokkere noe"
+      "message": "Domenet eller urlen hvor ArtBlock ikke skal blokkere noe"
    },
    "excludefilterremoved": {
       "description": "Warning when a page exclusion rule was removed in resourceblock.html",
@@ -325,11 +325,11 @@
    },
    "filecleanerwarning": {
       "description": "Help for users who use hyperactive file cleaners",
-      "message": "Hvis du ser denne meldingen hver gang du starter AdBlock, vennligst forsikre deg om at du ikke bruker et filrensingsprogram som ogs\u00E5 sletter 'localStorage'-filer."
+      "message": "Hvis du ser denne meldingen hver gang du starter ArtBlock, vennligst forsikre deg om at du ikke bruker et filrensingsprogram som ogs\u00E5 sletter 'localStorage'-filer."
    },
    "filteradblock_custom": {
-      "description": "A filter list. Don't translate 'AdBlock'",
-      "message": "AdBlock-tilpassede filtre (anbefalt)"
+      "description": "A filter list. Don't translate 'ArtBlock'",
+      "message": "ArtBlock-tilpassede filtre (anbefalt)"
    },
    "filterczech": {
       "description": "A filter list",
@@ -466,12 +466,12 @@
       "message": "Type"
    },
    "hide_this_button": {
-      "description": "Toolbar button menu entry to hide the AdBlock button",
+      "description": "Toolbar button menu entry to hide the ArtBlock button",
       "message": "Skjul denne knappen"
    },
    "how_to_use_adblock": {
       "description": "Install page section title",
-      "message": "Hvordan bruke AdBlock:"
+      "message": "Hvordan bruke ArtBlock:"
    },
    "i_like_googles_text_ads_dont_block_those": {
       "description": "Install page text; slightly shorter than the 'googletextads' message.",
@@ -479,11 +479,11 @@
    },
    "installedtitle": {
       "description": "Title for the installation success page",
-      "message": "AdBlock er n\u00E5 installert!"
+      "message": "ArtBlock er n\u00E5 installert!"
    },
    "installing_adblock": {
       "description": "Install page: shown while progress bar loads",
-      "message": "Innstallerer AdBlock..."
+      "message": "Innstallerer ArtBlock..."
    },
    "labelshow": {
       "description": "The label when you click the 'show links to filter lists' option",
@@ -639,14 +639,14 @@
    },
    "now_you_have_adblock_hooray": {
       "description": "Install page title.  'Hooray' is a silly word shouted when you are excited, for example if your team just won a game.",
-      "message": "N\u00E5 har du AdBlock!  Hurra!"
+      "message": "N\u00E5 har du ArtBlock!  Hurra!"
    },
    "ok_autoupdate_is_on": {
       "description": "Install page: text of button to press after turning on autoupdate.",
       "message": "OK, autooppdatering er p\u00E5 "
    },
    "ok_now_what": {
-      "description": "Install page: text of button to press after learning how to use AdBlock. 'Now what?' is a slang expression meaning 'I have done everything you have asked so far; what do I do next?'",
+      "description": "Install page: text of button to press after learning how to use ArtBlock. 'Now what?' is a slang expression meaning 'I have done everything you have asked so far; what do I do next?'",
       "message": "OK, hva n\u00E5? "
    },
    "onlyondomains": {
@@ -667,7 +667,7 @@
    },
    "optionstitle": {
       "description": "Title for the options page",
-      "message": "AdBlock-innstillinger"
+      "message": "ArtBlock-innstillinger"
    },
    "optionsversion": {
       "description": "Version number",
@@ -692,12 +692,12 @@
       "message": "Hvilket spr\u00E5k er siden skrevet p\u00E5?"
    },
    "pause_adblock": {
-      "description": "Menu entry to pause AdBlock.",
-      "message": "Sett AdBlock p\u00E5 pause"
+      "description": "Menu entry to pause ArtBlock.",
+      "message": "Sett ArtBlock p\u00E5 pause"
    },
    "please_fill_out_adblocks_one_question_setup": {
       "description": "Install page instructions.  The one question is a checkbox.",
-      "message": "Vennligst fyll ut AdBlocks ett-sp\u00F8rsm\u00E5lsoppsett:"
+      "message": "Vennligst fyll ut ArtBlocks ett-sp\u00F8rsm\u00E5lsoppsett:"
    },
    "refusetocheck": {
       "description": "user is telling us they don't wish to investigate something for us",
@@ -789,7 +789,7 @@
    },
    "set_up_adblock": {
       "description": "Install page: section title",
-      "message": "Sett opp AdBlock"
+      "message": "Sett opp ArtBlock"
    },
    "show_me_how": {
       "description": "Install page: text of button Safari users can press to be shown how to turn on autoupdate",
@@ -817,11 +817,11 @@
    },
    "status_disabled": {
       "description": "Message shown in toolbar button on web pages that disallow extensions, such as the Extensions Gallery or about:blank.",
-      "message": "AdBlock kan ikke kj\u00F8res p\u00E5 dette domenet."
+      "message": "ArtBlock kan ikke kj\u00F8res p\u00E5 dette domenet."
    },
    "status_paused": {
-      "description": "Message shown in toolbar button when AdBlock is paused.",
-      "message": "AdBlock er satt p\u00E5 pause."
+      "description": "Message shown in toolbar button when ArtBlock is paused.",
+      "message": "ArtBlock er satt p\u00E5 pause."
    },
    "subscribe_unsubscribe_all": {
       "description": "Link in the button",
@@ -859,7 +859,7 @@
    },
    "tabcustomizetitle": {
       "description": "Title of the third tab",
-      "message": "Tilpass AdBlock"
+      "message": "Tilpass ArtBlock"
    },
    "tabfilterlists": {
       "description": "A tab on the options page",
@@ -942,7 +942,7 @@
       "message": "ukjent"
    },
    "unpause": {
-      "description": "Link text to unpause AdBlock, displayed immediately after 'status_paused'.",
+      "description": "Link text to unpause ArtBlock, displayed immediately after 'status_paused'.",
       "message": "start"
    },
    "unsubscribedlabel": {
@@ -1007,7 +1007,7 @@
    },
    "updatefromoldversion": {
       "description": "ad report page instruction",
-      "message": "Du bruker en gammel versjon av AdBlock. Venligst $updatelink$ til den nyeste versjonen av AdBlock",
+      "message": "Du bruker en gammel versjon av ArtBlock. Venligst $updatelink$ til den nyeste versjonen av ArtBlock",
       "placeholders": {
          "updatelink": {
             "content": "$oppdater$2",

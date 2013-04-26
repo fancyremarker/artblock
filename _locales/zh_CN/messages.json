@@ -5,19 +5,19 @@
    },
    "adblock_auto_removes_ads_thats_all": {
       "description": "Install page: explaining how to use adblock.",
-      "message": " AdBlock \u4F1A\u81EA\u52A8\u79FB\u9664\u5E7F\u544A\u3002\u8FD9\u5C31\u662F\u5B83\u7684\u529F\u80FD\u3002"
+      "message": " ArtBlock \u4F1A\u81EA\u52A8\u79FB\u9664\u5E7F\u544A\u3002\u8FD9\u5C31\u662F\u5B83\u7684\u529F\u80FD\u3002"
    },
    "adblock_is_paused": {
       "description": "resourceblocking page string",
-      "message": "AdBlock \u6682\u505C\u3002 \u8FD9\u4E2A\u9875\u9762\u4E0D\u53EF\u7528\u3002 \u542F\u7528AdBlock \u5E76\u518D\u8BD5\u4E00\u6B21\u3002"
+      "message": "ArtBlock \u6682\u505C\u3002 \u8FD9\u4E2A\u9875\u9762\u4E0D\u53EF\u7528\u3002 \u542F\u7528ArtBlock \u5E76\u518D\u8BD5\u4E00\u6B21\u3002"
    },
    "adblock_wont_run_on_pages_matching": {
       "description": "Message displayed when the whitelister dialog will whitelist part of an entire website, for example '*.google.com/reader/*'. The URL will appear on the next line.",
-      "message": "AdBlock \u4E0D\u4F1A\u5728\u7B26\u5408\u6B64\u89C4\u5219\u7684\u7F51\u57DF\u542F\u7528:"
+      "message": "ArtBlock \u4E0D\u4F1A\u5728\u7B26\u5408\u6B64\u89C4\u5219\u7684\u7F51\u57DF\u542F\u7528:"
    },
    "adblockreportinganad": {
       "description": "title of ad report page",
-      "message": "AdBlock - \u5E7F\u544A\u56DE\u62A5"
+      "message": "ArtBlock - \u5E7F\u544A\u56DE\u62A5"
    },
    "addthisfilter": {
       "description": "resourceblocking page string",
@@ -233,7 +233,7 @@
    },
    "checkinfirefox3": {
       "description": "instruction for how to check Firefox for a reported ad",
-      "message": "\u5728Firefox \u4E2D\uFF0C\u8BA2\u9605\u6240\u6709\u548C\u6B64\u5904\u76F8\u540C\u7684\u8FC7\u6EE4\u6E05\u5355\uFF08AdBlock \u81EA\u8BA2\u8FC7\u6EE4\u6E05\u5355\u9664\u5916\uFF09\u3002"
+      "message": "\u5728Firefox \u4E2D\uFF0C\u8BA2\u9605\u6240\u6709\u548C\u6B64\u5904\u76F8\u540C\u7684\u8FC7\u6EE4\u6E05\u5355\uFF08ArtBlock \u81EA\u8BA2\u8FC7\u6EE4\u6E05\u5355\u9664\u5916\uFF09\u3002"
    },
    "checkinfirefox4": {
       "description": "instruction for how to check Firefox for a reported ad",
@@ -244,7 +244,7 @@
       "message": "\u5E7F\u544A\u662F\u5426\u51FA\u73B0\u5728 Firefox\u4E2D\uFF1F"
    },
    "chromebutton_how_to_hide": {
-      "description": "Message explaining how to hide the AdBlock toolbar button. 'Hide Button' should match the text that Chrome displays when you right click a toolbar button.",
+      "description": "Message explaining how to hide the ArtBlock toolbar button. 'Hide Button' should match the text that Chrome displays when you right click a toolbar button.",
       "message": "\u5982\u679C\u8981\u9690\u85CF\u6309\u94AE\uFF0C\u53F3\u952E\u5E76\u4E14\u70B9\u9009\u300E\u9690\u85CF\u6309\u94AE\u300F\u3002\u4F60\u53EF\u4EE5\u4ECE\u628A\u624B| \u5DE5\u5177| \u6269\u5145\u5957\u4EF6\u6062\u590D\u6309\u94AE\u3002"
    },
    "cleanuplist": {
@@ -269,7 +269,7 @@
    },
    "clickthead": {
       "description": "When you have to click the ad to continue",
-      "message": "\u70B9\u9009\u8981\u963B\u6321\u7684\u5E7F\u544A\uFF0CAdBlock \u4F1A\u534F\u52A9\u60A8\u8BBE\u5B9A\u3002"
+      "message": "\u70B9\u9009\u8981\u963B\u6321\u7684\u5E7F\u544A\uFF0CArtBlock \u4F1A\u534F\u52A9\u60A8\u8BBE\u5B9A\u3002"
    },
    "clickupdatefilters": {
       "description": "instruction on ad report page",
@@ -289,7 +289,7 @@
    },
    "debuginlogoption": {
       "description": "Option on first tab page",
-      "message": "\u5728Console Log \u4E2D\u663E\u793A\u9664\u9519\u8D44\u8BAF\uFF08\u5C06\u4F1A\u964D\u4F4EAdBlock \u6548\u80FD\uFF09"
+      "message": "\u5728Console Log \u4E2D\u663E\u793A\u9664\u9519\u8D44\u8BAF\uFF08\u5C06\u4F1A\u964D\u4F4EArtBlock \u6548\u80FD\uFF09"
    },
    "description1": {
       "description": "Extension description in manifest",
@@ -301,11 +301,11 @@
    },
    "disabled_by_filter_lists": {
       "description": "Message shown when a user tries to unwhitelist a web page that has been whitelisted by a rule in a subscribed filter list.",
-      "message": "\u62B1\u6B49, \u56E0\u4E3A\u4F60\u7684\u4E00\u4E2A\u8FC7\u6EE4\u6E05\u5355\uFF0CAdBlock \u5728\u8FD9\u4E2A\u9875\u9762\u88AB\u5173\u95ED"
+      "message": "\u62B1\u6B49, \u56E0\u4E3A\u4F60\u7684\u4E00\u4E2A\u8FC7\u6EE4\u6E05\u5355\uFF0CArtBlock \u5728\u8FD9\u4E2A\u9875\u9762\u88AB\u5173\u95ED"
    },
    "disabled_on_this_page": {
       "description": "Message shown in toolbar button on web pages that have been whitelisted.",
-      "message": "AdBlock \u5728\u8FD9\u4E2A\u9875\u9762\u5173\u95ED\u3002"
+      "message": "ArtBlock \u5728\u8FD9\u4E2A\u9875\u9762\u5173\u95ED\u3002"
    },
    "done": {
       "description": "Install page: appended to the 'installing_adblock' message once the progress bar reaches 100%",
@@ -325,7 +325,7 @@
    },
    "excludedomainorurl": {
       "description": "Message of the exclude area",
-      "message": "AdBlock\u3000\u7F51\u57DF\u767D\u540D\u5355"
+      "message": "ArtBlock\u3000\u7F51\u57DF\u767D\u540D\u5355"
    },
    "excludefilterremoved": {
       "description": "Warning when a page exclusion rule was removed in resourceblock.html",
@@ -345,11 +345,11 @@
    },
    "filecleanerwarning": {
       "description": "Help for users who use hyperactive file cleaners",
-      "message": "\u5982\u679C\u60A8\u6BCF\u6B21\u5F00\u542FAdBlock \u90FD\u770B\u5230\u6B64\u8BAF\u606F\uFF0C\u8BF7\u786E\u8BA4\u60A8\u4F7F\u7528\u7684\u6863\u6848\u6E05\u7406\u7A0B\u5F0F\u4E0D\u4F1A\u6E05\u9664\u300ClocalStorage\u300D \u6863\u6848\u3002 "
+      "message": "\u5982\u679C\u60A8\u6BCF\u6B21\u5F00\u542FArtBlock \u90FD\u770B\u5230\u6B64\u8BAF\u606F\uFF0C\u8BF7\u786E\u8BA4\u60A8\u4F7F\u7528\u7684\u6863\u6848\u6E05\u7406\u7A0B\u5F0F\u4E0D\u4F1A\u6E05\u9664\u300ClocalStorage\u300D \u6863\u6848\u3002 "
    },
    "filteradblock_custom": {
-      "description": "A filter list. Don't translate 'AdBlock'",
-      "message": "AdBlock \u81EA\u8BA2\u8FC7\u6EE4\u6E05\u5355\uFF08\u63A8\u8350\uFF09"
+      "description": "A filter list. Don't translate 'ArtBlock'",
+      "message": "ArtBlock \u81EA\u8BA2\u8FC7\u6EE4\u6E05\u5355\uFF08\u63A8\u8350\uFF09"
    },
    "filterchinese": {
       "description": "A filter list. If it's the filter list for your language, please add '(recommended)'",
@@ -510,12 +510,12 @@
       "message": "\u5E2E\u52A9"
    },
    "hide_this_button": {
-      "description": "Toolbar button menu entry to hide the AdBlock button",
+      "description": "Toolbar button menu entry to hide the ArtBlock button",
       "message": "\u9690\u85CF\u8FD9\u4E2A\u6309\u94AE"
    },
    "how_to_use_adblock": {
       "description": "Install page section title",
-      "message": "\u5982\u4F55\u4F7F\u7528 AdBlock:"
+      "message": "\u5982\u4F55\u4F7F\u7528 ArtBlock:"
    },
    "i_like_googles_text_ads_dont_block_those": {
       "description": "Install page text; slightly shorter than the 'googletextads' message.",
@@ -527,11 +527,11 @@
    },
    "installedtitle": {
       "description": "Title for the installation success page",
-      "message": "AdBlock \u5B89\u88C5\u6210\u529F\uFF01"
+      "message": "ArtBlock \u5B89\u88C5\u6210\u529F\uFF01"
    },
    "installing_adblock": {
       "description": "Install page: shown while progress bar loads",
-      "message": "\u5B89\u88C5 AdBlock..."
+      "message": "\u5B89\u88C5 ArtBlock..."
    },
    "invalidListUrl": {
       "description": "Message when you subscribe to a non-list URL",
@@ -703,14 +703,14 @@
    },
    "now_you_have_adblock_hooray": {
       "description": "Install page title. 'Hooray' is a silly word shouted when you are excited, for example if your team just won a game.",
-      "message": "\u73B0\u5728\u4F60\u5DF2\u7ECF\u6709AdBlock! \u592A\u597D\u4E86!"
+      "message": "\u73B0\u5728\u4F60\u5DF2\u7ECF\u6709ArtBlock! \u592A\u597D\u4E86!"
    },
    "ok_autoupdate_is_on": {
       "description": "Install page: text of button to press after turning on autoupdate.",
       "message": "\u597D, \u81EA\u52A8\u66F4\u65B0\u5DF2\u5F00\u542F "
    },
    "ok_now_what": {
-      "description": "Install page: text of button to press after learning how to use AdBlock. 'Now what?' is a slang expression meaning 'I have done everything you have asked so far; what do I do next?'",
+      "description": "Install page: text of button to press after learning how to use ArtBlock. 'Now what?' is a slang expression meaning 'I have done everything you have asked so far; what do I do next?'",
       "message": "\u597D\u4E86, \u7136\u540E\u5462? "
    },
    "only_block_ads_on_these_sites": {
@@ -735,7 +735,7 @@
    },
    "optionstitle": {
       "description": "Title for the options page",
-      "message": "AdBlock \u9009\u9879"
+      "message": "ArtBlock \u9009\u9879"
    },
    "optionsversion": {
       "description": "Version number",
@@ -760,15 +760,15 @@
       "message": "\u6B64\u9875\u9762\u4F7F\u7528\u4EC0\u4E48\u8BED\u8A00\uFF1F"
    },
    "pause_adblock": {
-      "description": "Menu entry to pause AdBlock.",
-      "message": "\u6682\u505C AdBlock"
+      "description": "Menu entry to pause ArtBlock.",
+      "message": "\u6682\u505C ArtBlock"
    },
    "please_fill_out_adblocks_one_question_setup": {
       "description": "Install page instructions. The one question is a checkbox.",
-      "message": "\u8BF7\u586B\u5B8CAdBlock \u7684\u4E00\u4E2A\u95EE\u9898\u8BBE\u5B9A:"
+      "message": "\u8BF7\u586B\u5B8CArtBlock \u7684\u4E00\u4E2A\u95EE\u9898\u8BBE\u5B9A:"
    },
    "project_home": {
-      "description": "Text of link to the AdBlock open source project homepage (not the install page)",
+      "description": "Text of link to the ArtBlock open source project homepage (not the install page)",
       "message": "\u8BA1\u753B\u9996\u9875"
    },
    "refusetocheck": {
@@ -861,7 +861,7 @@
    },
    "set_up_adblock": {
       "description": "Install page: section title",
-      "message": "\u8BBE\u5B9A AdBlock"
+      "message": "\u8BBE\u5B9A ArtBlock"
    },
    "show_ads_except_for": {
       "description": "Section title for blacklisting section of Customize tab",
@@ -893,11 +893,11 @@
    },
    "status_disabled": {
       "description": "Message shown in toolbar button on web pages that disallow extensions, such as the Extensions Gallery or about:blank.",
-      "message": "AdBlock\u4E0D\u80FD\u5728\u8FD9\u4E2A\u7F51\u57DF\u4F7F\u7528\u3002"
+      "message": "ArtBlock\u4E0D\u80FD\u5728\u8FD9\u4E2A\u7F51\u57DF\u4F7F\u7528\u3002"
    },
    "status_paused": {
-      "description": "Message shown in toolbar button when AdBlock is paused.",
-      "message": "AdBlock \u5DF2\u6682\u505C"
+      "description": "Message shown in toolbar button when ArtBlock is paused.",
+      "message": "ArtBlock \u5DF2\u6682\u505C"
    },
    "stop_blocking_ads": {
       "description": "Section header on third tab",
@@ -905,7 +905,7 @@
    },
    "storage_quota_exceeded": {
       "description": "Message shown when the user uses more storage than allowed by the browser",
-      "message": "\u4F60\u8D85\u51FA\u4E86AdBlock \u80FD\u4F7F\u7528\u7684\u50A8\u5B58\u7A7A\u95F4\u3002 \u8BF7\u53D6\u6D88\u8BA2\u9605\u4E00\u4E9B\u6E05\u5355!"
+      "message": "\u4F60\u8D85\u51FA\u4E86ArtBlock \u80FD\u4F7F\u7528\u7684\u50A8\u5B58\u7A7A\u95F4\u3002 \u8BF7\u53D6\u6D88\u8BA2\u9605\u4E00\u4E9B\u6E05\u5355!"
    },
    "subscribe_unsubscribe_all": {
       "description": "Link in the button",
@@ -943,7 +943,7 @@
    },
    "tabcustomizetitle": {
       "description": "Title of the third tab",
-      "message": "\u81EA\u8BA2 AdBlock"
+      "message": "\u81EA\u8BA2 ArtBlock"
    },
    "tabfilterlists": {
       "description": "A tab on the options page",
@@ -1038,7 +1038,7 @@
       "message": "xmlhttprequest"
    },
    "unpause": {
-      "description": "Link text to unpause AdBlock, displayed immediately after 'status_paused'.",
+      "description": "Link text to unpause ArtBlock, displayed immediately after 'status_paused'.",
       "message": "\u53D6\u6D88\u6682\u505C"
    },
    "unsubscribedlabel": {
@@ -1103,7 +1103,7 @@
    },
    "updatefromoldversion": {
       "description": "ad report page instruction",
-      "message": "\u60A8\u6B63\u5728\u4F7F\u7528\u65E7\u7248\u672C\u7684AdBlock\u3002\u8BF7\u5148$updatelink$\u5230\u6700\u65B0\u7248\u672C",
+      "message": "\u60A8\u6B63\u5728\u4F7F\u7528\u65E7\u7248\u672C\u7684ArtBlock\u3002\u8BF7\u5148$updatelink$\u5230\u6700\u65B0\u7248\u672C",
       "placeholders": {
          "updatelink": {
             "content": "$1\u66F4\u65B0$2",
@@ -1113,7 +1113,7 @@
    },
    "updatenowmessage": {
       "description": "update filters text button",
-      "message": "AdBlock\u4F1A\u81EA\u52A8\u83B7\u53D6\u66F4\u65B0\uFF1B\u60A8\u4E5F\u53EF\u4EE5\u8981\u6C42\u003Ca\u003E\u73B0\u5728\u66F4\u65B0\u003C/a\u003E"
+      "message": "ArtBlock\u4F1A\u81EA\u52A8\u83B7\u53D6\u66F4\u65B0\uFF1B\u60A8\u4E5F\u53EF\u4EE5\u8981\u6C42\u003Ca\u003E\u73B0\u5728\u66F4\u65B0\u003C/a\u003E"
    },
    "updateyourlists": {
       "description": "instruction on ad report page",
@@ -1125,7 +1125,7 @@
    },
    "whitelistertitle2": {
       "description": "The title of the whitelister dialog",
-      "message": "\u4E0D\u8981\u5728\u6B64\u7F51\u57DF\u4F7F\u7528 AdBlock..."
+      "message": "\u4E0D\u8981\u5728\u6B64\u7F51\u57DF\u4F7F\u7528 ArtBlock..."
    },
    "whitelisteverycontaining": {
       "description": "resourceblocking page string",
@@ -1141,10 +1141,10 @@
    },
    "you_can_slide_to_change": {
       "description": "Instructions for how to use the whitelister slider controls. Sometimes only one slider will show, and sometimes two will show, and if possible the text should handle both cases.",
-      "message": "\u4F60\u53EF\u4EE5\u6ED1\u52A8\u6765\u6539\u53D8AdBlock \u7F51\u57DF\u767D\u540D\u5355\u3002"
+      "message": "\u4F60\u53EF\u4EE5\u6ED1\u52A8\u6765\u6539\u53D8ArtBlock \u7F51\u57DF\u767D\u540D\u5355\u3002"
    },
    "you_know_thats_a_bad_idea_right": {
       "description": "Confirmation message shown to user if they try to subscribe to too many lists. The user will have two options: OK and Cancel.",
-      "message": "\u4F7F\u7528\u8D8A\u591A\u7684\u8FC7\u6EE4\u6E05\u5355\u4F1A\u4F7FAdBlock \u8D8A\u6162\u3002 \u8FC7\u591A\u7684\u8FC7\u6EE4\u6E05\u5355\u4F1A\u4F7F\u6D4F\u89C8\u5668\u5728\u90E8\u4EFD\u7F51\u7AD9\u5F53\u673A\u3002 \u70B9\u9009\u300E\u786E\u8BA4\u300F\u7EE7\u7EED\u3002"
+      "message": "\u4F7F\u7528\u8D8A\u591A\u7684\u8FC7\u6EE4\u6E05\u5355\u4F1A\u4F7FArtBlock \u8D8A\u6162\u3002 \u8FC7\u591A\u7684\u8FC7\u6EE4\u6E05\u5355\u4F1A\u4F7F\u6D4F\u89C8\u5668\u5728\u90E8\u4EFD\u7F51\u7AD9\u5F53\u673A\u3002 \u70B9\u9009\u300E\u786E\u8BA4\u300F\u7EE7\u7EED\u3002"
    }
 }

@@ -5,19 +5,19 @@
    },
    "adblock_auto_removes_ads_thats_all": {
       "description": "Install page: explaining how to use adblock.",
-      "message": "AdBlock entfernt die Werbung automatisch. Es muss nichts weiter getan werden."
+      "message": "ArtBlock entfernt die Werbung automatisch. Es muss nichts weiter getan werden."
    },
    "adblock_is_paused": {
       "description": "resourceblocking page string",
-      "message": "AdBlock ist pausiert. Deshalb k\u00F6nnen keine Elemente aufgelistet werden. Starten Sie zuerst AdBlock wieder und versuchen Sie es erneut."
+      "message": "ArtBlock ist pausiert. Deshalb k\u00F6nnen keine Elemente aufgelistet werden. Starten Sie zuerst ArtBlock wieder und versuchen Sie es erneut."
    },
    "adblock_wont_run_on_pages_matching": {
       "description": "Message displayed when the whitelister dialog will whitelist part of an entire website, for example '*.google.com/reader/*'.  The URL will appear on the next line.",
-      "message": "AdBlock wird deaktiviert auf allen Seiten die auf dies zutreffen:"
+      "message": "ArtBlock wird deaktiviert auf allen Seiten die auf dies zutreffen:"
    },
    "adblockreportinganad": {
       "description": "title of ad report page",
-      "message": "AdBlock - Werbung melden"
+      "message": "ArtBlock - Werbung melden"
    },
    "addthisfilter": {
       "description": "resourceblocking page string",
@@ -25,7 +25,7 @@
    },
    "adreport2": {
       "description": "Instructions on ad reporting page. 'Customize' should be the same text as the 'tabcustomize' message.",
-      "message": "Sie haben Werbung auf einer Seite gefunden? Dieser Assistent wird Ihnen dabei helfen diese Werbung zu melden!\u003Cbr/\u003E Hinweis: Werbung zu melden ist freiwillig. Sollten Sie keine Werbung melden wollen, k\u00F6nnen Sie dieses Fenster schlie\u00DFen und die Werbung \u00FCber einen Filter im 'Anpassen' Tab der AdBlock Einstellungen hinzuf\u00FCgen."
+      "message": "Sie haben Werbung auf einer Seite gefunden? Dieser Assistent wird Ihnen dabei helfen diese Werbung zu melden!\u003Cbr/\u003E Hinweis: Werbung zu melden ist freiwillig. Sollten Sie keine Werbung melden wollen, k\u00F6nnen Sie dieses Fenster schlie\u00DFen und die Werbung \u00FCber einen Filter im 'Anpassen' Tab der ArtBlock Einstellungen hinzuf\u00FCgen."
    },
    "adstillappear": {
       "description": "question on ad reporting page",
@@ -129,7 +129,7 @@
    },
    "blacklisterthefilter": {
       "description": "Blacklister attribute choosing page message",
-      "message": "Filter (kann in den AdBlock Einstellungen bearbeitet werden):"
+      "message": "Filter (kann in den ArtBlock Einstellungen bearbeitet werden):"
    },
    "blacklistertype": {
       "description": "node name is called 'Type'",
@@ -229,11 +229,11 @@
    },
    "checkinfirefox2": {
       "description": "instruction for how to check Firefox for a reported ad",
-      "message": "Installieren Sie AdBlock Plus f\u00FCr Firefox."
+      "message": "Installieren Sie ArtBlock Plus f\u00FCr Firefox."
    },
    "checkinfirefox3": {
       "description": "instruction for how to check Firefox for a reported ad",
-      "message": "Abonnieren Sie in Firefox die selben Filterlisten wie in AdBlock (au\u00DFer AdBlock Standardfilter)."
+      "message": "Abonnieren Sie in Firefox die selben Filterlisten wie in ArtBlock (au\u00DFer ArtBlock Standardfilter)."
    },
    "checkinfirefox4": {
       "description": "instruction for how to check Firefox for a reported ad",
@@ -244,7 +244,7 @@
       "message": "Erscheint die Werbung in Firefox?"
    },
    "chromebutton_how_to_hide": {
-      "description": "Message explaining how to hide the AdBlock toolbar button.  'Hide Button' should match the text that Chrome displays when you right click a toolbar button.",
+      "description": "Message explaining how to hide the ArtBlock toolbar button.  'Hide Button' should match the text that Chrome displays when you right click a toolbar button.",
       "message": "Um den Toolbar Button auszublenden, klicken Sie mit einem Rechtsklick auf den Button und w\u00E4hlen Sie 'Schaltfl\u00E4che ausblenden'.  Um den Button wieder anzuzeigen, klicken Sie auf Schraubenschl\u00FCssel | Tools | Erweiterungen."
    },
    "cleanuplist": {
@@ -289,7 +289,7 @@
    },
    "debuginlogoption": {
       "description": "Option on first tab page",
-      "message": "Debug-Berichte in der Fehlerkonsole anzeigen (verlangsamt AdBlock)"
+      "message": "Debug-Berichte in der Fehlerkonsole anzeigen (verlangsamt ArtBlock)"
    },
    "description1": {
       "description": "Extension description in manifest",
@@ -301,11 +301,11 @@
    },
    "disabled_by_filter_lists": {
       "description": "Message shown when a user tries to unwhitelist a web page that has been whitelisted by a rule in a subscribed filter list.",
-      "message": "AdBlock ist durch eine Ihrer Filterlisten auf dieser Seite deaktiviert."
+      "message": "ArtBlock ist durch eine Ihrer Filterlisten auf dieser Seite deaktiviert."
    },
    "disabled_on_this_page": {
       "description": "Message shown in toolbar button on web pages that have been whitelisted.",
-      "message": "AdBlock ist auf dieser Seite deaktiviert."
+      "message": "ArtBlock ist auf dieser Seite deaktiviert."
    },
    "done": {
       "description": "Install page: appended to the 'installing_adblock' message once the progress bar reaches 100%",
@@ -313,7 +313,7 @@
    },
    "dont_run_on_pages_on_domain": {
       "description": "Menu entry to open the whitelist wizard.",
-      "message": "AdBlock auf Seiten dieser Domain deaktivieren"
+      "message": "ArtBlock auf Seiten dieser Domain deaktivieren"
    },
    "dont_run_on_this_page": {
       "description": "Menu entry to whitelist a page",
@@ -325,7 +325,7 @@
    },
    "excludedomainorurl": {
       "description": "Message of the exclude area",
-      "message": "Domain oder Adresse, auf der AdBlock deaktiviert sein soll"
+      "message": "Domain oder Adresse, auf der ArtBlock deaktiviert sein soll"
    },
    "excludefilterremoved": {
       "description": "Warning when a page exclusion rule was removed in resourceblock.html",
@@ -348,8 +348,8 @@
       "message": "Falls Sie diese Nachricht jedesmal sehen wenn Sie Ihren Browser starten, \u00FCberpr\u00FCfen Sie bitte, ob Sie einen Filecleaner benutzen, der auch 'localStorage'-Dateien l\u00F6scht."
    },
    "filteradblock_custom": {
-      "description": "A filter list. Don't translate 'AdBlock'",
-      "message": "AdBlock Standardfilter (empfohlen)"
+      "description": "A filter list. Don't translate 'ArtBlock'",
+      "message": "ArtBlock Standardfilter (empfohlen)"
    },
    "filterchinese": {
       "description": "A filter list. If it's the filter list for your language, please add '(recommended)'",
@@ -465,7 +465,7 @@
    },
    "fixityourself": {
       "description": "telling a user who won't report an ad to us how to handle it for herself",
-      "message": "Sie k\u00F6nnen die Werbung auch im 'Anpassen' Tab der AdBlock Einstellungen entfernen. Danke!"
+      "message": "Sie k\u00F6nnen die Werbung auch im 'Anpassen' Tab der ArtBlock Einstellungen entfernen. Danke!"
    },
    "flashads": {
       "description": "Title of the final ad report question if the ad didn't appear in FF",
@@ -510,12 +510,12 @@
       "message": "Hilfe"
    },
    "hide_this_button": {
-      "description": "Toolbar button menu entry to hide the AdBlock button",
+      "description": "Toolbar button menu entry to hide the ArtBlock button",
       "message": "Diesen Button ausblenden"
    },
    "how_to_use_adblock": {
       "description": "Install page section title",
-      "message": "AdBlock benutzen:"
+      "message": "ArtBlock benutzen:"
    },
    "i_like_googles_text_ads_dont_block_those": {
       "description": "Install page text; slightly shorter than the 'googletextads' message.",
@@ -527,11 +527,11 @@
    },
    "installedtitle": {
       "description": "Title for the installation success page",
-      "message": "AdBlock ist jetzt installiert!"
+      "message": "ArtBlock ist jetzt installiert!"
    },
    "installing_adblock": {
       "description": "Install page: shown while progress bar loads",
-      "message": "AdBlock wird installiert..."
+      "message": "ArtBlock wird installiert..."
    },
    "invalidListUrl": {
       "description": "Message when you subscribe to a non-list URL",
@@ -627,7 +627,7 @@
    },
    "lets_get_you_set_up": {
       "description": "Install page: section header for Safari users.  These users do not see the section with the 'set_up_adblock' message.  The tone should be friendly.",
-      "message": "AdBlock einrichten"
+      "message": "ArtBlock einrichten"
    },
    "linkblockadbyurl": {
       "description": "Link on the third tab",
@@ -685,7 +685,7 @@
    },
    "nodefaultfilter1": {
       "description": "instructions on ad report page pointing users to EasyList subscriptions list. 'Customize' should be the same message as 'tabcustomize'.",
-      "message": "AdBlock hat keine Filterliste f\u00FCr diese Sprache integriert.\u003Cbr/\u003EBitte versuchen Sie $link$ eine passende Liste zu finden, die f\u00FCr diese Sprache ausgelegt ist oder entfernen Sie die Werbung im 'Anpassen' Tab der AdBlock Einstellungen.",
+      "message": "ArtBlock hat keine Filterliste f\u00FCr diese Sprache integriert.\u003Cbr/\u003EBitte versuchen Sie $link$ eine passende Liste zu finden, die f\u00FCr diese Sprache ausgelegt ist oder entfernen Sie die Werbung im 'Anpassen' Tab der ArtBlock Einstellungen.",
       "placeholders": {
          "link": {
             "content": "$1hier$2",
@@ -703,14 +703,14 @@
    },
    "now_you_have_adblock_hooray": {
       "description": "Install page title.  'Hooray' is a silly word shouted when you are excited, for example if your team just won a game.",
-      "message": "AdBlock ist nun installiert!"
+      "message": "ArtBlock ist nun installiert!"
    },
    "ok_autoupdate_is_on": {
       "description": "Install page: text of button to press after turning on autoupdate.",
       "message": "Automatische Updates sind nun aktiviert"
    },
    "ok_now_what": {
-      "description": "Install page: text of button to press after learning how to use AdBlock. 'Now what?' is a slang expression meaning 'I have done everything you have asked so far; what do I do next?'",
+      "description": "Install page: text of button to press after learning how to use ArtBlock. 'Now what?' is a slang expression meaning 'I have done everything you have asked so far; what do I do next?'",
       "message": "OK, und jetzt? "
    },
    "only_block_ads_on_these_sites": {
@@ -735,7 +735,7 @@
    },
    "optionstitle": {
       "description": "Title for the options page",
-      "message": "AdBlock Einstellungen"
+      "message": "ArtBlock Einstellungen"
    },
    "optionsversion": {
       "description": "Version number",
@@ -760,15 +760,15 @@
       "message": "In welcher Sprache ist die Seite verfasst?"
    },
    "pause_adblock": {
-      "description": "Menu entry to pause AdBlock.",
-      "message": "AdBlock pausieren"
+      "description": "Menu entry to pause ArtBlock.",
+      "message": "ArtBlock pausieren"
    },
    "please_fill_out_adblocks_one_question_setup": {
       "description": "Install page instructions.  The one question is a checkbox.",
-      "message": "Richten Sie bitten in diesem kurzen Setup AdBlock so ein wie es Ihnen gef\u00E4llt:"
+      "message": "Richten Sie bitten in diesem kurzen Setup ArtBlock so ein wie es Ihnen gef\u00E4llt:"
    },
    "project_home": {
-      "description": "Text of link to the AdBlock open source project homepage (not the install page)",
+      "description": "Text of link to the ArtBlock open source project homepage (not the install page)",
       "message": "Projektseite"
    },
    "refusetocheck": {
@@ -845,7 +845,7 @@
    },
    "safari50_updatenotice": {
       "description": "A message shown to Safari 5.0 users urging them to upgrade",
-      "message": "Sie benutzen eine veraltete Version von Safari. Laden Sie sich die neueste Version von Safari herunter um mit dem AdBlock Toolbar-Button AdBlock pausieren, Ausnahmeregeln f\u00FCr Webseiten erstellen und Werbung melden zu k\u00F6nnen. \u003Ca\u003EJetzt herunterladen\u003C/a\u003E."
+      "message": "Sie benutzen eine veraltete Version von Safari. Laden Sie sich die neueste Version von Safari herunter um mit dem ArtBlock Toolbar-Button ArtBlock pausieren, Ausnahmeregeln f\u00FCr Webseiten erstellen und Werbung melden zu k\u00F6nnen. \u003Ca\u003EJetzt herunterladen\u003C/a\u003E."
    },
    "savebutton": {
       "description": "Save button",
@@ -865,7 +865,7 @@
    },
    "set_up_adblock": {
       "description": "Install page: section title",
-      "message": "AdBlock einrichten"
+      "message": "ArtBlock einrichten"
    },
    "show_ads_except_for": {
       "description": "Section title for blacklisting section of Customize tab",
@@ -897,19 +897,19 @@
    },
    "status_disabled": {
       "description": "Message shown in toolbar button on web pages that disallow extensions, such as the Extensions Gallery or about:blank.",
-      "message": "AdBlock kann auf dieser Domain nicht ausgef\u00FChrt werden."
+      "message": "ArtBlock kann auf dieser Domain nicht ausgef\u00FChrt werden."
    },
    "status_paused": {
-      "description": "Message shown in toolbar button when AdBlock is paused.",
-      "message": "AdBlock ist pausiert."
+      "description": "Message shown in toolbar button when ArtBlock is paused.",
+      "message": "ArtBlock ist pausiert."
    },
    "stop_blocking_ads": {
       "description": "Section header on third tab",
-      "message": "AdBlock auf Seiten deaktivieren:"
+      "message": "ArtBlock auf Seiten deaktivieren:"
    },
    "storage_quota_exceeded": {
       "description": "Message shown when the user uses more storage than allowed by the browser",
-      "message": "Sie haben den Speicherplatz der AdBlock zur Verf\u00FCgung steht \u00FCberschritten. Bitte beenden Sie einige Filterlistenabonnements!"
+      "message": "Sie haben den Speicherplatz der ArtBlock zur Verf\u00FCgung steht \u00FCberschritten. Bitte beenden Sie einige Filterlistenabonnements!"
    },
    "subscribe_unsubscribe_all": {
       "description": "Link in the button",
@@ -947,7 +947,7 @@
    },
    "tabcustomizetitle": {
       "description": "Title of the third tab",
-      "message": "AdBlock anpassen"
+      "message": "ArtBlock anpassen"
    },
    "tabfilterlists": {
       "description": "A tab on the options page",
@@ -1046,8 +1046,8 @@
       "message": "xmlhttprequest"
    },
    "unpause": {
-      "description": "Link text to unpause AdBlock, displayed immediately after 'status_paused'.",
-      "message": "AdBlock wieder starten"
+      "description": "Link text to unpause ArtBlock, displayed immediately after 'status_paused'.",
+      "message": "ArtBlock wieder starten"
    },
    "unsubscribedlabel": {
       "description": "Status label",
@@ -1111,7 +1111,7 @@
    },
    "updatefromoldversion": {
       "description": "ad report page instruction",
-      "message": "Sie benutzen eine veraltete Version von AdBlock. Bitte $updatelink$ Sie zuerst AdBlock auf die neueste Version",
+      "message": "Sie benutzen eine veraltete Version von ArtBlock. Bitte $updatelink$ Sie zuerst ArtBlock auf die neueste Version",
       "placeholders": {
          "updatelink": {
             "content": "$1aktualisieren$2",
@@ -1133,7 +1133,7 @@
    },
    "whitelistertitle2": {
       "description": "The title of the whitelister dialog",
-      "message": "AdBlock deaktivieren auf..."
+      "message": "ArtBlock deaktivieren auf..."
    },
    "whitelisteverycontaining": {
       "description": "resourceblocking page string",
@@ -1149,10 +1149,10 @@
    },
    "you_can_slide_to_change": {
       "description": "Instructions for how to use the whitelister slider controls.  Sometimes only one slider will show, and sometimes two will show, and if possible the text should handle both cases.",
-      "message": "Sie k\u00F6nnen hier genau einstellen auf welchen Seiten AdBlock deaktiviert sein soll."
+      "message": "Sie k\u00F6nnen hier genau einstellen auf welchen Seiten ArtBlock deaktiviert sein soll."
    },
    "you_know_thats_a_bad_idea_right": {
       "description": "Confirmation message shown to user if they try to subscribe to too many lists. The user will have two options: OK and Cancel.",
-      "message": "Umso mehr Filterlisten Sie abonnieren, desto langsamer l\u00E4uft AdBlock. Zuviele Filterlistenabonnements k\u00F6nnen sogar zum Browsercrash auf einigen Seiten f\u00FChren. Klicken Sie auf OK um diese Liste trotzdem zu abonnieren."
+      "message": "Umso mehr Filterlisten Sie abonnieren, desto langsamer l\u00E4uft ArtBlock. Zuviele Filterlistenabonnements k\u00F6nnen sogar zum Browsercrash auf einigen Seiten f\u00FChren. Klicken Sie auf OK um diese Liste trotzdem zu abonnieren."
    }
 }

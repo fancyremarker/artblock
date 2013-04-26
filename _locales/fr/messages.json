@@ -9,15 +9,15 @@
    },
    "adblock_is_paused": {
       "description": "resourceblocking page string",
-      "message": "AdBlock est d\u00E9sactiv\u00E9. Cette page ne peut donc pas \u00EAtre utilis\u00E9e. R\u00E9activez AdBlock et essayez \u00E0 nouveau."
+      "message": "ArtBlock est d\u00E9sactiv\u00E9. Cette page ne peut donc pas \u00EAtre utilis\u00E9e. R\u00E9activez ArtBlock et essayez \u00E0 nouveau."
    },
    "adblock_wont_run_on_pages_matching": {
       "description": "Message displayed when the whitelister dialog will whitelist part of an entire website, for example '*.google.com/reader/*'.  The URL will appear on the next line.",
-      "message": "AdBlock ne s'ex\u00E9cutera pas sur les pages correspondantes \u00E0 :"
+      "message": "ArtBlock ne s'ex\u00E9cutera pas sur les pages correspondantes \u00E0 :"
    },
    "adblockreportinganad": {
       "description": "title of ad report page",
-      "message": "AdBlock - Signaler une publicit\u00E9"
+      "message": "ArtBlock - Signaler une publicit\u00E9"
    },
    "addthisfilter": {
       "description": "resourceblocking page string",
@@ -25,7 +25,7 @@
    },
    "adreport2": {
       "description": "Instructions on ad reporting page. 'Customize' should be the same text as the 'tabcustomize' message.",
-      "message": "Vous venez de trouver une publicit\u00E9 sur une page web ? Et bien, nous allons trouver qui vous pouvez en informer.\u003Cbr/\u003ENotez que signaler des publicit\u00E9s est purement volontaire. Si vous ne voulez pas le faire, vous pouvez simplement fermer cette fen\u00EAtre, et bloquer la publicit\u00E9 pour vous-m\u00EAme, en ajoutant le filtre appropri\u00E9 dans l'onglet 'Personnaliser' des options AdBlock !"
+      "message": "Vous venez de trouver une publicit\u00E9 sur une page web ? Et bien, nous allons trouver qui vous pouvez en informer.\u003Cbr/\u003ENotez que signaler des publicit\u00E9s est purement volontaire. Si vous ne voulez pas le faire, vous pouvez simplement fermer cette fen\u00EAtre, et bloquer la publicit\u00E9 pour vous-m\u00EAme, en ajoutant le filtre appropri\u00E9 dans l'onglet 'Personnaliser' des options ArtBlock !"
    },
    "adstillappear": {
       "description": "question on ad reporting page",
@@ -229,7 +229,7 @@
    },
    "checkinfirefox2": {
       "description": "instruction for how to check Firefox for a reported ad",
-      "message": "Installez AdBlock Plus pour Firefox si vous ne l'avez pas encore."
+      "message": "Installez ArtBlock Plus pour Firefox si vous ne l'avez pas encore."
    },
    "checkinfirefox3": {
       "description": "instruction for how to check Firefox for a reported ad",
@@ -244,7 +244,7 @@
       "message": "Est-ce que la publicit\u00E9 appara\u00EEt dans Firefox ?"
    },
    "chromebutton_how_to_hide": {
-      "description": "Message explaining how to hide the AdBlock toolbar button.  'Hide Button' should match the text that Chrome displays when you right click a toolbar button.",
+      "description": "Message explaining how to hide the ArtBlock toolbar button.  'Hide Button' should match the text that Chrome displays when you right click a toolbar button.",
       "message": "Pour cacher ce bouton, faites un clic droit dessus et choisissez 'Masquer le bouton'. Pour l'afficher \u00E0 nouveau, allez dans Cl\u00E9 \u00E0 molette | Outils | Extensions."
    },
    "cleanuplist": {
@@ -289,7 +289,7 @@
    },
    "debuginlogoption": {
       "description": "Option on first tab page",
-      "message": "Afficher les messages de d\u00E9bogage dans la Console (ralentit AdBlock)"
+      "message": "Afficher les messages de d\u00E9bogage dans la Console (ralentit ArtBlock)"
    },
    "description1": {
       "description": "Extension description in manifest",
@@ -301,11 +301,11 @@
    },
    "disabled_by_filter_lists": {
       "description": "Message shown when a user tries to unwhitelist a web page that has been whitelisted by a rule in a subscribed filter list.",
-      "message": "D\u00E9sol\u00E9, AdBlock est d\u00E9sactiv\u00E9 sur cette page par un ou plusieurs de vos filtres."
+      "message": "D\u00E9sol\u00E9, ArtBlock est d\u00E9sactiv\u00E9 sur cette page par un ou plusieurs de vos filtres."
    },
    "disabled_on_this_page": {
       "description": "Message shown in toolbar button on web pages that have been whitelisted.",
-      "message": "AdBlock est d\u00E9sactiv\u00E9 pour cette page."
+      "message": "ArtBlock est d\u00E9sactiv\u00E9 pour cette page."
    },
    "done": {
       "description": "Install page: appended to the 'installing_adblock' message once the progress bar reaches 100%",
@@ -325,7 +325,7 @@
    },
    "excludedomainorurl": {
       "description": "Message of the exclude area",
-      "message": "Le domaine ou l'URL o\u00F9 AdBlock ne doit rien bloquer :"
+      "message": "Le domaine ou l'URL o\u00F9 ArtBlock ne doit rien bloquer :"
    },
    "excludefilterremoved": {
       "description": "Warning when a page exclusion rule was removed in resourceblock.html",
@@ -345,11 +345,11 @@
    },
    "filecleanerwarning": {
       "description": "Help for users who use hyperactive file cleaners",
-      "message": "Si vous voyez ce message \u00E0 chaque fois que vous ouvrez AdBlock, v\u00E9rifiez que vous n'utilisez pas un logiciel de nettoyage qui supprime les fichiers 'localStorage'."
+      "message": "Si vous voyez ce message \u00E0 chaque fois que vous ouvrez ArtBlock, v\u00E9rifiez que vous n'utilisez pas un logiciel de nettoyage qui supprime les fichiers 'localStorage'."
    },
    "filteradblock_custom": {
-      "description": "A filter list. Don't translate 'AdBlock'",
-      "message": "Filtres personnalis\u00E9s AdBlock (recommand\u00E9)"
+      "description": "A filter list. Don't translate 'ArtBlock'",
+      "message": "Filtres personnalis\u00E9s ArtBlock (recommand\u00E9)"
    },
    "filterchinese": {
       "description": "A filter list. If it's the filter list for your language, please add '(recommended)'",
@@ -510,12 +510,12 @@
       "message": "Aide"
    },
    "hide_this_button": {
-      "description": "Toolbar button menu entry to hide the AdBlock button",
+      "description": "Toolbar button menu entry to hide the ArtBlock button",
       "message": "Masquer ce bouton"
    },
    "how_to_use_adblock": {
       "description": "Install page section title",
-      "message": "Comment fonctionne AdBlock :"
+      "message": "Comment fonctionne ArtBlock :"
    },
    "i_like_googles_text_ads_dont_block_those": {
       "description": "Install page text; slightly shorter than the 'googletextads' message.",
@@ -527,11 +527,11 @@
    },
    "installedtitle": {
       "description": "Title for the installation success page",
-      "message": "AdBlock est maintenant install\u00E9!"
+      "message": "ArtBlock est maintenant install\u00E9!"
    },
    "installing_adblock": {
       "description": "Install page: shown while progress bar loads",
-      "message": "Installation d'AdBlock..."
+      "message": "Installation d'ArtBlock..."
    },
    "invalidListUrl": {
       "description": "Message when you subscribe to a non-list URL",
@@ -703,14 +703,14 @@
    },
    "now_you_have_adblock_hooray": {
       "description": "Install page title.  'Hooray' is a silly word shouted when you are excited, for example if your team just won a game.",
-      "message": "AdBlock est maintenant install\u00E9 !"
+      "message": "ArtBlock est maintenant install\u00E9 !"
    },
    "ok_autoupdate_is_on": {
       "description": "Install page: text of button to press after turning on autoupdate.",
       "message": "OK, c'est fait"
    },
    "ok_now_what": {
-      "description": "Install page: text of button to press after learning how to use AdBlock. 'Now what?' is a slang expression meaning 'I have done everything you have asked so far; what do I do next?'",
+      "description": "Install page: text of button to press after learning how to use ArtBlock. 'Now what?' is a slang expression meaning 'I have done everything you have asked so far; what do I do next?'",
       "message": "OK, et maintenant ?"
    },
    "only_block_ads_on_these_sites": {
@@ -735,7 +735,7 @@
    },
    "optionstitle": {
       "description": "Title for the options page",
-      "message": "Options AdBlock"
+      "message": "Options ArtBlock"
    },
    "optionsversion": {
       "description": "Version number",
@@ -760,15 +760,15 @@
       "message": "Dans quelle langue cette page est-elle \u00E9crite ?"
    },
    "pause_adblock": {
-      "description": "Menu entry to pause AdBlock.",
-      "message": "D\u00E9sactiver AdBlock"
+      "description": "Menu entry to pause ArtBlock.",
+      "message": "D\u00E9sactiver ArtBlock"
    },
    "please_fill_out_adblocks_one_question_setup": {
       "description": "Install page instructions.  The one question is a checkbox.",
       "message": "Il n'y a qu'une seule chose \u00E0 configurer :"
    },
    "project_home": {
-      "description": "Text of link to the AdBlock open source project homepage (not the install page)",
+      "description": "Text of link to the ArtBlock open source project homepage (not the install page)",
       "message": "Accueil du projet"
    },
    "refusetocheck": {
@@ -845,7 +845,7 @@
    },
    "safari50_updatenotice": {
       "description": "A message shown to Safari 5.0 users urging them to upgrade",
-      "message": "Vous utilisez une ancienne version de Safari. Merci de mettre \u00E0 jour vers la derni\u00E8re version afin de pouvoir utiliser le bouton de la barre d'outils pour d\u00E9sactiver AdBlock, autoriser des sites web, ou rapporter des pubs. \u003Ca\u003EMettre \u00E0 jour maintenant\u003C/a\u003E."
+      "message": "Vous utilisez une ancienne version de Safari. Merci de mettre \u00E0 jour vers la derni\u00E8re version afin de pouvoir utiliser le bouton de la barre d'outils pour d\u00E9sactiver ArtBlock, autoriser des sites web, ou rapporter des pubs. \u003Ca\u003EMettre \u00E0 jour maintenant\u003C/a\u003E."
    },
    "savebutton": {
       "description": "Save button",
@@ -865,7 +865,7 @@
    },
    "set_up_adblock": {
       "description": "Install page: section title",
-      "message": "Configurer AdBlock"
+      "message": "Configurer ArtBlock"
    },
    "show_ads_except_for": {
       "description": "Section title for blacklisting section of Customize tab",
@@ -881,7 +881,7 @@
    },
    "showcontextmenus": {
       "description": "Option on first tab page",
-      "message": "Ajouter les \u00E9l\u00E9ments AdBlock dans le menu du clic droit"
+      "message": "Ajouter les \u00E9l\u00E9ments ArtBlock dans le menu du clic droit"
    },
    "showlinkstolists": {
       "description": "Option on second tab page",
@@ -897,11 +897,11 @@
    },
    "status_disabled": {
       "description": "Message shown in toolbar button on web pages that disallow extensions, such as the Extensions Gallery or about:blank.",
-      "message": "AdBlock ne peut pas fonctionner sur ce domaine."
+      "message": "ArtBlock ne peut pas fonctionner sur ce domaine."
    },
    "status_paused": {
-      "description": "Message shown in toolbar button when AdBlock is paused.",
-      "message": "AdBlock est d\u00E9sactiv\u00E9."
+      "description": "Message shown in toolbar button when ArtBlock is paused.",
+      "message": "ArtBlock est d\u00E9sactiv\u00E9."
    },
    "stop_blocking_ads": {
       "description": "Section header on third tab",
@@ -909,7 +909,7 @@
    },
    "storage_quota_exceeded": {
       "description": "Message shown when the user uses more storage than allowed by the browser",
-      "message": "Vous avez d\u00E9pass\u00E9 la quantit\u00E9 de stockage que peut utiliser AdBlock! D\u00E9sabonnez-vous de quelques listes de filtres."
+      "message": "Vous avez d\u00E9pass\u00E9 la quantit\u00E9 de stockage que peut utiliser ArtBlock! D\u00E9sabonnez-vous de quelques listes de filtres."
    },
    "subscribe_unsubscribe_all": {
       "description": "Link in the button",
@@ -947,7 +947,7 @@
    },
    "tabcustomizetitle": {
       "description": "Title of the third tab",
-      "message": "Personnaliser AdBlock"
+      "message": "Personnaliser ArtBlock"
    },
    "tabfilterlists": {
       "description": "A tab on the options page",
@@ -1046,7 +1046,7 @@
       "message": "xmlhttprequest"
    },
    "unpause": {
-      "description": "Link text to unpause AdBlock, displayed immediately after 'status_paused'.",
+      "description": "Link text to unpause ArtBlock, displayed immediately after 'status_paused'.",
       "message": "R\u00E9activer"
    },
    "unsubscribedlabel": {
@@ -1111,7 +1111,7 @@
    },
    "updatefromoldversion": {
       "description": "ad report page instruction",
-      "message": "Vous utilisez une version obsol\u00E8te d'AdBlock. Merci de commencer par la $updatelink$.",
+      "message": "Vous utilisez une version obsol\u00E8te d'ArtBlock. Merci de commencer par la $updatelink$.",
       "placeholders": {
          "updatelink": {
             "content": "$1mettre \u00E0 jour$2",
@@ -1133,7 +1133,7 @@
    },
    "whitelistertitle2": {
       "description": "The title of the whitelister dialog",
-      "message": "Ne pas ex\u00E9cuter AdBlock sur..."
+      "message": "Ne pas ex\u00E9cuter ArtBlock sur..."
    },
    "whitelisteverycontaining": {
       "description": "resourceblocking page string",
@@ -1149,10 +1149,10 @@
    },
    "you_can_slide_to_change": {
       "description": "Instructions for how to use the whitelister slider controls.  Sometimes only one slider will show, and sometimes two will show, and if possible the text should handle both cases.",
-      "message": "Faites glisser les curseurs ci-dessous pour choisir les pages sur lesquelles AdBlock ne devra rien faire."
+      "message": "Faites glisser les curseurs ci-dessous pour choisir les pages sur lesquelles ArtBlock ne devra rien faire."
    },
    "you_know_thats_a_bad_idea_right": {
       "description": "Confirmation message shown to user if they try to subscribe to too many lists. The user will have two options: OK and Cancel.",
-      "message": "Plus vous utilisez de listes, plus AdBlock sera lent. Utiliser trop de listes peut m\u00EAme faire planter votre navigateur. Appuyez sur OK si vous \u00EAtes certain de vouloir s'abonner \u00E0 cette liste."
+      "message": "Plus vous utilisez de listes, plus ArtBlock sera lent. Utiliser trop de listes peut m\u00EAme faire planter votre navigateur. Appuyez sur OK si vous \u00EAtes certain de vouloir s'abonner \u00E0 cette liste."
    }
 }

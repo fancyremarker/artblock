@@ -5,7 +5,7 @@
    },
    "adblockreportinganad": {
       "description": "title of ad report page",
-      "message": "AdBlock - Reklam bildirme"
+      "message": "ArtBlock - Reklam bildirme"
    },
    "adstillappear": {
       "description": "question on ad reporting page",
@@ -155,7 +155,7 @@
    },
    "checkinfirefox2": {
       "description": "instruction for how to check Firefox for a reported ad",
-      "message": "Firefox'ta da AdBlock Plus'\u0131 kurun."
+      "message": "Firefox'ta da ArtBlock Plus'\u0131 kurun."
    },
    "checkinfirefox3": {
       "description": "instruction for how to check Firefox for a reported ad",
@@ -203,11 +203,11 @@
    },
    "filecleanerwarning": {
       "description": "Help for users who use hyperactive file cleaners",
-      "message": "E\u011Fer AdBlock her ba\u015Flad\u0131\u011F\u0131nda bu mesaj\u0131 g\u00F6r\u00FCyorsan\u0131z, 'localStorage' klas\u00F6r\u00FCndeki dosyalar\u0131 silen bir temizleyici kullanmad\u0131\u011F\u0131n\u0131z\u0131 kontrol edin."
+      "message": "E\u011Fer ArtBlock her ba\u015Flad\u0131\u011F\u0131nda bu mesaj\u0131 g\u00F6r\u00FCyorsan\u0131z, 'localStorage' klas\u00F6r\u00FCndeki dosyalar\u0131 silen bir temizleyici kullanmad\u0131\u011F\u0131n\u0131z\u0131 kontrol edin."
    },
    "filteradblock_custom": {
-      "description": "A filter list. Don't translate 'AdBlock'",
-      "message": "AdBlock'a \u00F6zel filteler (tavsiye edilir)"
+      "description": "A filter list. Don't translate 'ArtBlock'",
+      "message": "ArtBlock'a \u00F6zel filteler (tavsiye edilir)"
    },
    "filterczech": {
       "description": "A filter list",
@@ -311,7 +311,7 @@
    },
    "installedtitle": {
       "description": "Title for the installation success page",
-      "message": "AdBlock kuruldu!"
+      "message": "ArtBlock kuruldu!"
    },
    "labelshow": {
       "description": "The label when you click the 'show links to filter lists' option",
@@ -415,7 +415,7 @@
    },
    "optionstitle": {
       "description": "Title for the options page",
-      "message": "AdBlock Ayarlar\u0131"
+      "message": "ArtBlock Ayarlar\u0131"
    },
    "optionsversion": {
       "description": "Version number",
@@ -599,7 +599,7 @@
    },
    "updatefromoldversion": {
       "description": "ad report page instruction",
-      "message": "AdBlock'un eski bir versiyonunu kullan\u0131yorsunuz. L\u00FCtfen AdBlock'u en g\u00FCncel versiyonuna $updatelink$.",
+      "message": "ArtBlock'un eski bir versiyonunu kullan\u0131yorsunuz. L\u00FCtfen ArtBlock'u en g\u00FCncel versiyonuna $updatelink$.",
       "placeholders": {
          "updatelink": {
             "content": "$g\u00FCncelleyiniz$2",

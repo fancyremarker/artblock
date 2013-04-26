@@ -17,7 +17,7 @@
    },
    "adblockreportinganad": {
       "description": "title of ad report page",
-      "message": "AdBlock - \uBBF8\uCC28\uB2E8 \uAD11\uACE0 \uBCF4\uACE0"
+      "message": "ArtBlock - \uBBF8\uCC28\uB2E8 \uAD11\uACE0 \uBCF4\uACE0"
    },
    "addthisfilter": {
       "description": "resourceblocking page string",
@@ -229,7 +229,7 @@
    },
    "checkinfirefox3": {
       "description": "instruction for how to check Firefox for a reported ad",
-      "message": "\uD30C\uC774\uC5B4\uD3ED\uC2A4\uC5D0\uC11C \uAC19\uC740 \uAD6C\uB3C5 \uD544\uD130\uB97C \uAD6C\uB3C5\uD558\uC2ED\uC2DC\uC624.(AdBlock Custom filters\uB294 \uC81C\uC678)"
+      "message": "\uD30C\uC774\uC5B4\uD3ED\uC2A4\uC5D0\uC11C \uAC19\uC740 \uAD6C\uB3C5 \uD544\uD130\uB97C \uAD6C\uB3C5\uD558\uC2ED\uC2DC\uC624.(ArtBlock Custom filters\uB294 \uC81C\uC678)"
    },
    "checkinfirefox4": {
       "description": "instruction for how to check Firefox for a reported ad",
@@ -240,7 +240,7 @@
       "message": "\uD30C\uC774\uC5B4\uD3ED\uC2A4\uB85C \uC6F9 \uD398\uC774\uC9C0\uB97C \uC5F4\uBA74 \uAD11\uACE0\uAC00 \uC874\uC7AC\uD569\uB2C8\uAE4C?"
    },
    "chromebutton_how_to_hide": {
-      "description": "Message explaining how to hide the AdBlock toolbar button.  'Hide Button' should match the text that Chrome displays when you right click a toolbar button.",
+      "description": "Message explaining how to hide the ArtBlock toolbar button.  'Hide Button' should match the text that Chrome displays when you right click a toolbar button.",
       "message": "\uBC14 \uBC84\uD2BC\uC744 \uC228\uAE30\uB824\uBA74 \uC624\uB978\uCABD \uB9C8\uC6B0\uC2A4 \uBA54\uB274\uC5D0\uC11C \uD234\uBC14 \uBC84\uD2BC \uC228\uAE30\uAE30 \uD56D\uBAA9\uC744 \uC120\uD0DD\uD558\uC2ED\uC2DC\uC624. \uD234\uBC14 \uBC84\uD2BC\uC744 \uB2E4\uC2DC \uC0AC\uC6A9\uD558\uB824\uBA74 \uB80C\uCE58 \uC544\uC774\uCF58 \u003E \uB3C4\uAD6C \u003E \uD655\uC7A5 \uD504\uB85C\uADF8\uB7A8\uC5D0\uC11C \uC124\uC815\uD558\uC2DC\uC2DC\uC624."
    },
    "cleanuplist": {
@@ -344,7 +344,7 @@
       "message": "\uC560\uB4DC\uBE14\uB85D\uC744 \uC2DC\uC791\uD560 \uB54C\uB9C8\uB2E4 \uD604\uC7AC \uD398\uC774\uC9C0\uAC00 \uB098\uD0C0\uB098\uBA74 'localStorage' \uD30C\uC77C\uC744 \uC0AD\uC81C\uD558\uB294 \uD30C\uC77C \uD074\uB9AC\uB108\uB97C \uC0AC\uC6A9\uD558\uC9C0 \uB9C8\uC2ED\uC2DC\uC624."
    },
    "filteradblock_custom": {
-      "description": "A filter list. Don't translate 'AdBlock'",
+      "description": "A filter list. Don't translate 'ArtBlock'",
       "message": "AdBlock custom filters (\uC560\uB4DC\uBE14\uB85D \uAD6C\uB3C5 \uD544\uD130)"
    },
    "filterchinese": {
@@ -498,7 +498,7 @@
       "message": "\uB3C4\uC6C0\uB9D0"
    },
    "hide_this_button": {
-      "description": "Toolbar button menu entry to hide the AdBlock button",
+      "description": "Toolbar button menu entry to hide the ArtBlock button",
       "message": "\uD234\uBC14 \uBC84\uD2BC \uC228\uAE30\uAE30"
    },
    "how_to_use_adblock": {
@@ -694,7 +694,7 @@
       "message": "\uC790\uB3D9\uC73C\uB85C \uC5C5\uB370\uC774\uD2B8 \uC124\uCE58"
    },
    "ok_now_what": {
-      "description": "Install page: text of button to press after learning how to use AdBlock. 'Now what?' is a slang expression meaning 'I have done everything you have asked so far; what do I do next?'",
+      "description": "Install page: text of button to press after learning how to use ArtBlock. 'Now what?' is a slang expression meaning 'I have done everything you have asked so far; what do I do next?'",
       "message": "\uB2E4\uC74C \uB2E8\uACC4"
    },
    "only_block_ads_on_these_sites": {
@@ -719,7 +719,7 @@
    },
    "optionstitle": {
       "description": "Title for the options page",
-      "message": "AdBlock - \uC560\uB4DC\uBE14\uB85D \uC635\uC158"
+      "message": "ArtBlock - \uC560\uB4DC\uBE14\uB85D \uC635\uC158"
    },
    "optionsversion": {
       "description": "Version number",
@@ -744,7 +744,7 @@
       "message": "\uC6F9 \uD398\uC774\uC9C0\uAC00 \uC5B4\uB5A4 \uC5B8\uC5B4\uB85C \uC791\uC131\uB418\uC5C8\uC2B5\uB2C8\uAE4C?"
    },
    "pause_adblock": {
-      "description": "Menu entry to pause AdBlock.",
+      "description": "Menu entry to pause ArtBlock.",
       "message": "\uC0AC\uC6A9 \uC911\uC9C0"
    },
    "please_fill_out_adblocks_one_question_setup": {
@@ -752,7 +752,7 @@
       "message": "\uC560\uB4DC\uBE14\uB85D\uC744 \uC0AC\uC6A9\uD558\uAE30 \uC804\uC5D0 \uD544\uC694\uD55C \uC124\uC815\uC774\uBA70, \uC635\uC158 \uD398\uC774\uC9C0\uC5D0\uC11C \uBCC0\uACBD\uD560 \uC218 \uC788\uC2B5\uB2C8\uB2E4."
    },
    "project_home": {
-      "description": "Text of link to the AdBlock open source project homepage (not the install page)",
+      "description": "Text of link to the ArtBlock open source project homepage (not the install page)",
       "message": "\uD648\uD398\uC774\uC9C0"
    },
    "refusetocheck": {
@@ -880,7 +880,7 @@
       "message": "\uD604\uC7AC \uD398\uC774\uC9C0\uC5D0\uC11C \uC0AC\uC6A9 \uC911\uC9C0\uB428."
    },
    "status_paused": {
-      "description": "Message shown in toolbar button when AdBlock is paused.",
+      "description": "Message shown in toolbar button when ArtBlock is paused.",
       "message": "\uC0AC\uC6A9 \uC911\uC9C0\uB428."
    },
    "stop_blocking_ads": {
@@ -1006,7 +1006,7 @@
       "message": "\uAE30\uD0C0"
    },
    "unpause": {
-      "description": "Link text to unpause AdBlock, displayed immediately after 'status_paused'.",
+      "description": "Link text to unpause ArtBlock, displayed immediately after 'status_paused'.",
       "message": "\uB2E4\uC2DC \uC0AC\uC6A9"
    },
    "unsubscribedlabel": {
@@ -1071,7 +1071,7 @@
    },
    "updatefromoldversion": {
       "description": "ad report page instruction",
-      "message": "\uAD6C\uBC84\uC804 AdBlock\uC744 \uC0AC\uC6A9\uD558\uACE0 \uC788\uC2B5\uB2C8\uB2E4. \uBA3C\uC800 Adblock\uC744 \uCD5C\uC2E0 \uBC84\uC804\uC73C\uB85C $updatelink$\uD558\uC2ED\uC2DC\uC624.",
+      "message": "\uAD6C\uBC84\uC804 ArtBlock\uC744 \uC0AC\uC6A9\uD558\uACE0 \uC788\uC2B5\uB2C8\uB2E4. \uBA3C\uC800 Adblock\uC744 \uCD5C\uC2E0 \uBC84\uC804\uC73C\uB85C $updatelink$\uD558\uC2ED\uC2DC\uC624.",
       "placeholders": {
          "updatelink": {
             "content": "$1\uC5C5\uB370\uC774\uD2B8$2",

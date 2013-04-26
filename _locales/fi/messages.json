@@ -5,11 +5,11 @@
    },
    "adblock_auto_removes_ads_thats_all": {
       "description": "Install page: explaining how to use adblock.",
-      "message": " AdBlock est\u00E4\u00E4 kaikki mainokset automaattisesti. Siin\u00E4 kaikki."
+      "message": " ArtBlock est\u00E4\u00E4 kaikki mainokset automaattisesti. Siin\u00E4 kaikki."
    },
    "adblockreportinganad": {
       "description": "title of ad report page",
-      "message": "AdBlock - Mainoksen ilmoittaminen"
+      "message": "ArtBlock - Mainoksen ilmoittaminen"
    },
    "addthisfilter": {
       "description": "resourceblocking page string",
@@ -221,7 +221,7 @@
    },
    "checkinfirefox3": {
       "description": "instruction for how to check Firefox for a reported ad",
-      "message": "Ota Firefoxissa samat suodatinlistat k\u00E4ytt\u00F6\u00F6n kuin sinulla t\u00E4ss\u00E4 (paitsi AdBlockin mukautetut suodatitmet)."
+      "message": "Ota Firefoxissa samat suodatinlistat k\u00E4ytt\u00F6\u00F6n kuin sinulla t\u00E4ss\u00E4 (paitsi ArtBlockin mukautetut suodatitmet)."
    },
    "checkinfirefox4": {
       "description": "instruction for how to check Firefox for a reported ad",
@@ -232,7 +232,7 @@
       "message": "N\u00E4kyyk\u00F6 mainos Firefoxilla?"
    },
    "chromebutton_how_to_hide": {
-      "description": "Message explaining how to hide the AdBlock toolbar button.  'Hide Button' should match the text that Chrome displays when you right click a toolbar button.",
+      "description": "Message explaining how to hide the ArtBlock toolbar button.  'Hide Button' should match the text that Chrome displays when you right click a toolbar button.",
       "message": "Piilottaaksesi painikkeen, napsauta sit\u00E4 hiiren oikealla n\u00E4pp\u00E4imell\u00E4 ja valitse Piilota painike. Voit ottaa painikkeen k\u00E4ytt\u00F6\u00F6n uudestaan siirtym\u00E4ll\u00E4 Jakoavain-kuvake | Ty\u00F6kalut | Lis\u00E4osat."
    },
    "cleanuplist": {
@@ -277,7 +277,7 @@
    },
    "debuginlogoption": {
       "description": "Option on first tab page",
-      "message": "N\u00E4yt\u00E4 virheilmoitukset Virhekonsolissa (hidastaa AdBlockin toimintaa)"
+      "message": "N\u00E4yt\u00E4 virheilmoitukset Virhekonsolissa (hidastaa ArtBlockin toimintaa)"
    },
    "description1": {
       "description": "Extension description in manifest",
@@ -289,7 +289,7 @@
    },
    "disabled_by_filter_lists": {
       "description": "Message shown when a user tries to unwhitelist a web page that has been whitelisted by a rule in a subscribed filter list.",
-      "message": "AdBlock on poistettu k\u00E4yt\u00F6st\u00E4 t\u00E4ll\u00E4 sivulla (suodatinlistojen perusteella)."
+      "message": "ArtBlock on poistettu k\u00E4yt\u00F6st\u00E4 t\u00E4ll\u00E4 sivulla (suodatinlistojen perusteella)."
    },
    "done": {
       "description": "Install page: appended to the 'installing_adblock' message once the progress bar reaches 100%",
@@ -305,7 +305,7 @@
    },
    "excludedomainorurl": {
       "description": "Message of the exclude area",
-      "message": "Osoite tai verkkotunnus, jossa AdBlockin ei pit\u00E4isi est\u00E4\u00E4 mit\u00E4\u00E4n"
+      "message": "Osoite tai verkkotunnus, jossa ArtBlockin ei pit\u00E4isi est\u00E4\u00E4 mit\u00E4\u00E4n"
    },
    "failedtofetchfilter": {
       "description": "Error messagebox",
@@ -317,11 +317,11 @@
    },
    "filecleanerwarning": {
       "description": "Help for users who use hyperactive file cleaners",
-      "message": "Jos n\u00E4et t\u00E4m\u00E4n viestin joka kerta k\u00E4ynnist\u00E4ess\u00E4si AdBlockin, varmista, ett\u00E4 et k\u00E4yt\u00E4 tiedostojen poisto-ohjelmaa, joka poistaa my\u00F6s 'localStorage' -tiedostot."
+      "message": "Jos n\u00E4et t\u00E4m\u00E4n viestin joka kerta k\u00E4ynnist\u00E4ess\u00E4si ArtBlockin, varmista, ett\u00E4 et k\u00E4yt\u00E4 tiedostojen poisto-ohjelmaa, joka poistaa my\u00F6s 'localStorage' -tiedostot."
    },
    "filteradblock_custom": {
-      "description": "A filter list. Don't translate 'AdBlock'",
-      "message": "AdBlockin mukautetut listat (suositeltu)"
+      "description": "A filter list. Don't translate 'ArtBlock'",
+      "message": "ArtBlockin mukautetut listat (suositeltu)"
    },
    "filterczech": {
       "description": "A filter list. If it's the filter list for your language, please add '(recommended)'",
@@ -462,20 +462,20 @@
       "message": "Tyyppi"
    },
    "hide_this_button": {
-      "description": "Toolbar button menu entry to hide the AdBlock button",
+      "description": "Toolbar button menu entry to hide the ArtBlock button",
       "message": "Piilota t\u00E4m\u00E4 painike"
    },
    "how_to_use_adblock": {
       "description": "Install page section title",
-      "message": "Kuinka k\u00E4ytt\u00E4\u00E4 AdBlockia:"
+      "message": "Kuinka k\u00E4ytt\u00E4\u00E4 ArtBlockia:"
    },
    "installedtitle": {
       "description": "Title for the installation success page",
-      "message": "AdBlock on nyt asennettu!"
+      "message": "ArtBlock on nyt asennettu!"
    },
    "installing_adblock": {
       "description": "Install page: shown while progress bar loads",
-      "message": "Asennetaan AdBlockia..."
+      "message": "Asennetaan ArtBlockia..."
    },
    "labelshow": {
       "description": "The label when you click the 'show links to filter lists' option",
@@ -635,14 +635,14 @@
    },
    "now_you_have_adblock_hooray": {
       "description": "Install page title. 'Hooray' is a silly word shouted when you are excited, for example if your team just won a game.",
-      "message": "Nyt sinulla on AdBlock! Hurraa!"
+      "message": "Nyt sinulla on ArtBlock! Hurraa!"
    },
    "ok_autoupdate_is_on": {
       "description": "Install page: text of button to press after turning on autoupdate.",
       "message": "OK, automaattiset p\u00E4ivitykset ovat p\u00E4\u00E4ll\u00E4. "
    },
    "ok_now_what": {
-      "description": "Install page: text of button to press after learning how to use AdBlock. 'Now what?' is a slang expression meaning 'I have done everything you have asked so far; what do I do next?'",
+      "description": "Install page: text of button to press after learning how to use ArtBlock. 'Now what?' is a slang expression meaning 'I have done everything you have asked so far; what do I do next?'",
       "message": "OK, mit\u00E4 sitten? "
    },
    "only_block_ads_on_these_sites": {
@@ -667,7 +667,7 @@
    },
    "optionstitle": {
       "description": "Title for the options page",
-      "message": "AdBlockin asetukset"
+      "message": "ArtBlockin asetukset"
    },
    "optionsversion": {
       "description": "Version number",
@@ -692,12 +692,12 @@
       "message": "Mill\u00E4 kielell\u00E4 sivu on kirjoitettu?"
    },
    "pause_adblock": {
-      "description": "Menu entry to pause AdBlock.",
-      "message": "Pys\u00E4yt\u00E4 AdBlock"
+      "description": "Menu entry to pause ArtBlock.",
+      "message": "Pys\u00E4yt\u00E4 ArtBlock"
    },
    "please_fill_out_adblocks_one_question_setup": {
       "description": "Install page instructions. The one question is a checkbox.",
-      "message": "T\u00E4yt\u00E4 AdBlockin yhden kent\u00E4n asennus:"
+      "message": "T\u00E4yt\u00E4 ArtBlockin yhden kent\u00E4n asennus:"
    },
    "refusetocheck": {
       "description": "user is telling us they don't wish to investigate something for us",
@@ -789,7 +789,7 @@
    },
    "set_up_adblock": {
       "description": "Install page: section title",
-      "message": "Asenna AdBlock"
+      "message": "Asenna ArtBlock"
    },
    "show_ads_except_for": {
       "description": "Section title for blacklisting section of Customize tab",
@@ -805,7 +805,7 @@
    },
    "showcontextmenus": {
       "description": "Option on first tab page",
-      "message": "\u00C4l\u00E4 n\u00E4yt\u00E4 AdBlock-valintaa oikean klikkauksen valikoissa."
+      "message": "\u00C4l\u00E4 n\u00E4yt\u00E4 ArtBlock-valintaa oikean klikkauksen valikoissa."
    },
    "showlinkstolists": {
       "description": "Option on second tab page",
@@ -821,11 +821,11 @@
    },
    "status_disabled": {
       "description": "Message shown in toolbar button on web pages that disallow extensions, such as the Extensions Gallery or about:blank.",
-      "message": "AdBlock ei voi toimia t\u00E4ss\u00E4 verkkotunnuksessa."
+      "message": "ArtBlock ei voi toimia t\u00E4ss\u00E4 verkkotunnuksessa."
    },
    "status_paused": {
-      "description": "Message shown in toolbar button when AdBlock is paused.",
-      "message": "AdBlock on pys\u00E4ytetty."
+      "description": "Message shown in toolbar button when ArtBlock is paused.",
+      "message": "ArtBlock on pys\u00E4ytetty."
    },
    "subscribe_unsubscribe_all": {
       "description": "Link in the button",
@@ -863,7 +863,7 @@
    },
    "tabcustomizetitle": {
       "description": "Title of the third tab",
-      "message": "Mukauta AdBlockia"
+      "message": "Mukauta ArtBlockia"
    },
    "tabfilterlists": {
       "description": "A tab on the options page",
@@ -946,7 +946,7 @@
       "message": "tuntematon"
    },
    "unpause": {
-      "description": "Link text to unpause AdBlock, displayed immediately after 'status_paused'.",
+      "description": "Link text to unpause ArtBlock, displayed immediately after 'status_paused'.",
       "message": "k\u00E4ynnist\u00E4"
    },
    "unsubscribedlabel": {
@@ -1011,7 +1011,7 @@
    },
    "updatefromoldversion": {
       "description": "ad report page instruction",
-      "message": "K\u00E4yt\u00E4t vanhaa versiota AdBlockista. $updatelink$ ensin AdBlockin uusimpaan versioon",
+      "message": "K\u00E4yt\u00E4t vanhaa versiota ArtBlockista. $updatelink$ ensin ArtBlockin uusimpaan versioon",
       "placeholders": {
          "updatelink": {
             "content": "$1P\u00E4ivit\u00E4$2",

@@ -5,19 +5,19 @@
    },
    "adblock_auto_removes_ads_thats_all": {
       "description": "Install page: explaining how to use adblock.",
-      "message": " AdBlock automatikusan elt\u00E1vol\u00EDtja a rekl\u00E1mokat.  Ez minden amit tudni kell r\u00F3la."
+      "message": " ArtBlock automatikusan elt\u00E1vol\u00EDtja a rekl\u00E1mokat.  Ez minden amit tudni kell r\u00F3la."
    },
    "adblock_is_paused": {
       "description": "resourceblocking page string",
-      "message": "Az AdBlock megvan \u00E1ll\u00EDtva. Ez\u00E9rt semmilyen forr\u00E1s nincs sz\u0171rve, ez\u00E9rt ez az oldal nem haszn\u00E1lhat\u00F3. Folytassa az AdBlockot el\u0151sz\u00F6r, \u00E9s pr\u00F3b\u00E1lkozzon \u00FAjra."
+      "message": "Az ArtBlock megvan \u00E1ll\u00EDtva. Ez\u00E9rt semmilyen forr\u00E1s nincs sz\u0171rve, ez\u00E9rt ez az oldal nem haszn\u00E1lhat\u00F3. Folytassa az ArtBlockot el\u0151sz\u00F6r, \u00E9s pr\u00F3b\u00E1lkozzon \u00FAjra."
    },
    "adblock_wont_run_on_pages_matching": {
       "description": "Message displayed when the whitelister dialog will whitelist part of an entire website, for example '*.google.com/reader/*'.  The URL will appear on the next line.",
-      "message": "Az AdBlock nem fog futni az al\u00E1bbi oldalakon:"
+      "message": "Az ArtBlock nem fog futni az al\u00E1bbi oldalakon:"
    },
    "adblockreportinganad": {
       "description": "title of ad report page",
-      "message": "AdBlock - Rekl\u00E1m jelent\u00E9se"
+      "message": "ArtBlock - Rekl\u00E1m jelent\u00E9se"
    },
    "addthisfilter": {
       "description": "resourceblocking page string",
@@ -225,11 +225,11 @@
    },
    "checkinfirefox2": {
       "description": "instruction for how to check Firefox for a reported ad",
-      "message": "Telep\u00EDtse az AdBlock Plus-t Firefoxhoz ha m\u00E9g nem lenne."
+      "message": "Telep\u00EDtse az ArtBlock Plus-t Firefoxhoz ha m\u00E9g nem lenne."
    },
    "checkinfirefox3": {
       "description": "instruction for how to check Firefox for a reported ad",
-      "message": "Firefoxban, iratkozzon fel ugyanazokra a sz\u0171r\u0151 list\u00E1kra, amire itt van (kiv\u00E9ve az AdBlock egy\u00E9ni sz\u0171r\u0151ket)."
+      "message": "Firefoxban, iratkozzon fel ugyanazokra a sz\u0171r\u0151 list\u00E1kra, amire itt van (kiv\u00E9ve az ArtBlock egy\u00E9ni sz\u0171r\u0151ket)."
    },
    "checkinfirefox4": {
       "description": "instruction for how to check Firefox for a reported ad",
@@ -240,7 +240,7 @@
       "message": "L\u00E1that\u00F3 a rekl\u00E1m Firefoxban?"
    },
    "chromebutton_how_to_hide": {
-      "description": "Message explaining how to hide the AdBlock toolbar button.  'Hide Button' should match the text that Chrome displays when you right click a toolbar button.",
+      "description": "Message explaining how to hide the ArtBlock toolbar button.  'Hide Button' should match the text that Chrome displays when you right click a toolbar button.",
       "message": "A gomb elrejt\u00E9s\u00E9hez kattintson r\u00E1 jobb gombbal \u00E9s v\u00E1lassza a Gomb Elrejt\u00E9se-t.  \u00DAjra l\u00E1that\u00F3v\u00E1 teheti innen: Csavarkulcs | Eszk\u00F6z\u00F6k | B\u0151v\u00EDtm\u00E9nyek."
    },
    "cleanuplist": {
@@ -285,7 +285,7 @@
    },
    "debuginlogoption": {
       "description": "Option on first tab page",
-      "message": "Mutassa a hibakeres\u00E9si adatokat a Console Log-ban (ami lelass\u00EDtja az AdBlock-ot)"
+      "message": "Mutassa a hibakeres\u00E9si adatokat a Console Log-ban (ami lelass\u00EDtja az ArtBlock-ot)"
    },
    "description1": {
       "description": "Extension description in manifest",
@@ -297,11 +297,11 @@
    },
    "disabled_by_filter_lists": {
       "description": "Message shown when a user tries to unwhitelist a web page that has been whitelisted by a rule in a subscribed filter list.",
-      "message": "Sajn\u00E1lom, az AdBlock tiltva van ezen az oldalon az egyik sz\u0171r\u0151 list\u00E1ja \u00E1ltal."
+      "message": "Sajn\u00E1lom, az ArtBlock tiltva van ezen az oldalon az egyik sz\u0171r\u0151 list\u00E1ja \u00E1ltal."
    },
    "disabled_on_this_page": {
       "description": "Message shown in toolbar button on web pages that have been whitelisted.",
-      "message": "Az AdBlock tiltva van ezen az oldalon."
+      "message": "Az ArtBlock tiltva van ezen az oldalon."
    },
    "done": {
       "description": "Install page: appended to the 'installing_adblock' message once the progress bar reaches 100%",
@@ -321,7 +321,7 @@
    },
    "excludedomainorurl": {
       "description": "Message of the exclude area",
-      "message": "A domain vagy URL ahol az AdBlock-nak nem k\u00E9ne blokkolnia semmit"
+      "message": "A domain vagy URL ahol az ArtBlock-nak nem k\u00E9ne blokkolnia semmit"
    },
    "excludefilterremoved": {
       "description": "Warning when a page exclusion rule was removed in resourceblock.html",
@@ -341,11 +341,11 @@
    },
    "filecleanerwarning": {
       "description": "Help for users who use hyperactive file cleaners",
-      "message": "Ha megjelenik ez az oldal minden alkalommal, mikor az AdBlockot elind\u00EDtja, gy\u0151z\u0151dj\u00F6n meg r\u00F3la, hogy nem haszn\u00E1l egy f\u00E1jl tiszt\u00EDt\u00F3t, ami t\u00F6rli a 'localStorage' f\u00E1jlokat is."
+      "message": "Ha megjelenik ez az oldal minden alkalommal, mikor az ArtBlockot elind\u00EDtja, gy\u0151z\u0151dj\u00F6n meg r\u00F3la, hogy nem haszn\u00E1l egy f\u00E1jl tiszt\u00EDt\u00F3t, ami t\u00F6rli a 'localStorage' f\u00E1jlokat is."
    },
    "filteradblock_custom": {
-      "description": "A filter list. Don't translate 'AdBlock'",
-      "message": "AdBlock egy\u00E9ni sz\u0171r\u0151k (aj\u00E1nlott)"
+      "description": "A filter list. Don't translate 'ArtBlock'",
+      "message": "ArtBlock egy\u00E9ni sz\u0171r\u0151k (aj\u00E1nlott)"
    },
    "filterchinese": {
       "description": "A filter list. If it's the filter list for your language, please add '(recommended)'",
@@ -502,12 +502,12 @@
       "message": "S\u00FAg\u00F3"
    },
    "hide_this_button": {
-      "description": "Toolbar button menu entry to hide the AdBlock button",
+      "description": "Toolbar button menu entry to hide the ArtBlock button",
       "message": "Gomb eljrejt\u00E9se"
    },
    "how_to_use_adblock": {
       "description": "Install page section title",
-      "message": "AdBlock haszn\u00E1lata:"
+      "message": "ArtBlock haszn\u00E1lata:"
    },
    "i_like_googles_text_ads_dont_block_those": {
       "description": "Install page text; slightly shorter than the 'googletextads' message.",
@@ -519,11 +519,11 @@
    },
    "installedtitle": {
       "description": "Title for the installation success page",
-      "message": "Az AdBlock most m\u00E1r telep\u00EDtve van!"
+      "message": "Az ArtBlock most m\u00E1r telep\u00EDtve van!"
    },
    "installing_adblock": {
       "description": "Install page: shown while progress bar loads",
-      "message": "AdBlock telep\u00EDt\u00E9se..."
+      "message": "ArtBlock telep\u00EDt\u00E9se..."
    },
    "invalidListUrl": {
       "description": "Message when you subscribe to a non-list URL",
@@ -695,14 +695,14 @@
    },
    "now_you_have_adblock_hooray": {
       "description": "Install page title.  'Hooray' is a silly word shouted when you are excited, for example if your team just won a game.",
-      "message": "Mostm\u00E1r telep\u00EDtve van az AdBlock!  Hurr\u00E1!"
+      "message": "Mostm\u00E1r telep\u00EDtve van az ArtBlock!  Hurr\u00E1!"
    },
    "ok_autoupdate_is_on": {
       "description": "Install page: text of button to press after turning on autoupdate.",
       "message": "OK, az automatikus friss\u00EDt\u00E9s bekapcsolva "
    },
    "ok_now_what": {
-      "description": "Install page: text of button to press after learning how to use AdBlock. 'Now what?' is a slang expression meaning 'I have done everything you have asked so far; what do I do next?'",
+      "description": "Install page: text of button to press after learning how to use ArtBlock. 'Now what?' is a slang expression meaning 'I have done everything you have asked so far; what do I do next?'",
       "message": "OK, most mi j\u00F6n? "
    },
    "only_block_ads_on_these_sites": {
@@ -727,7 +727,7 @@
    },
    "optionstitle": {
       "description": "Title for the options page",
-      "message": "AdBlock Be\u00E1ll\u00EDt\u00E1sok"
+      "message": "ArtBlock Be\u00E1ll\u00EDt\u00E1sok"
    },
    "optionsversion": {
       "description": "Version number",
@@ -752,15 +752,15 @@
       "message": "Milyen nyelven van \u00EDrva az oldal?"
    },
    "pause_adblock": {
-      "description": "Menu entry to pause AdBlock.",
-      "message": "Az AdBlock meg\u00E1ll\u00EDt\u00E1sa"
+      "description": "Menu entry to pause ArtBlock.",
+      "message": "Az ArtBlock meg\u00E1ll\u00EDt\u00E1sa"
    },
    "please_fill_out_adblocks_one_question_setup": {
       "description": "Install page instructions.  The one question is a checkbox.",
-      "message": "K\u00E9rem t\u00F6ltse ki az AdBlock egy k\u00E9rd\u00E9ses telep\u00EDt\u00E9si oldal\u00E1t:"
+      "message": "K\u00E9rem t\u00F6ltse ki az ArtBlock egy k\u00E9rd\u00E9ses telep\u00EDt\u00E9si oldal\u00E1t:"
    },
    "project_home": {
-      "description": "Text of link to the AdBlock open source project homepage (not the install page)",
+      "description": "Text of link to the ArtBlock open source project homepage (not the install page)",
       "message": "Projekt honlap"
    },
    "refusetocheck": {
@@ -853,7 +853,7 @@
    },
    "set_up_adblock": {
       "description": "Install page: section title",
-      "message": "AdBlock Be\u00E1ll\u00EDt\u00E1sa"
+      "message": "ArtBlock Be\u00E1ll\u00EDt\u00E1sa"
    },
    "show_ads_except_for": {
       "description": "Section title for blacklisting section of Customize tab",
@@ -885,11 +885,11 @@
    },
    "status_disabled": {
       "description": "Message shown in toolbar button on web pages that disallow extensions, such as the Extensions Gallery or about:blank.",
-      "message": "Az AdBlock nem futtathat\u00F3 ezen a domainen."
+      "message": "Az ArtBlock nem futtathat\u00F3 ezen a domainen."
    },
    "status_paused": {
-      "description": "Message shown in toolbar button when AdBlock is paused.",
-      "message": "Az AdBlock megvan \u00E1ll\u00EDtva."
+      "description": "Message shown in toolbar button when ArtBlock is paused.",
+      "message": "Az ArtBlock megvan \u00E1ll\u00EDtva."
    },
    "stop_blocking_ads": {
       "description": "Section header on third tab",
@@ -897,7 +897,7 @@
    },
    "storage_quota_exceeded": {
       "description": "Message shown when the user uses more storage than allowed by the browser",
-      "message": "Az \u00D6n t\u00E1rhely\u00E9nek m\u00E9rete meghaladta az AdBlock \u00E1ltal haszn\u00E1lhat\u00F3t. K\u00E9rem, iratkozzon le n\u00E9h\u00E1ny list\u00E1r\u00F3l!"
+      "message": "Az \u00D6n t\u00E1rhely\u00E9nek m\u00E9rete meghaladta az ArtBlock \u00E1ltal haszn\u00E1lhat\u00F3t. K\u00E9rem, iratkozzon le n\u00E9h\u00E1ny list\u00E1r\u00F3l!"
    },
    "subscribe_unsubscribe_all": {
       "description": "Link in the button",
@@ -1018,7 +1018,7 @@
       "message": "ismeretlen"
    },
    "unpause": {
-      "description": "Link text to unpause AdBlock, displayed immediately after 'status_paused'.",
+      "description": "Link text to unpause ArtBlock, displayed immediately after 'status_paused'.",
       "message": "folytat\u00E1s"
    },
    "unsubscribedlabel": {
@@ -1083,7 +1083,7 @@
    },
    "updatefromoldversion": {
       "description": "ad report page instruction",
-      "message": "\u00D6n az AdBlock egy r\u00E9gebbi verzi\u00F3j\u00E1t haszn\u00E1lja. K\u00E9rem $updatelink$ az AdBlock leg\u00FAjabb verzi\u00F3j\u00E1ra.",
+      "message": "\u00D6n az ArtBlock egy r\u00E9gebbi verzi\u00F3j\u00E1t haszn\u00E1lja. K\u00E9rem $updatelink$ az ArtBlock leg\u00FAjabb verzi\u00F3j\u00E1ra.",
       "placeholders": {
          "updatelink": {
             "content": "$1friss\u00EDtsen$2",
@@ -1105,7 +1105,7 @@
    },
    "whitelistertitle2": {
       "description": "The title of the whitelister dialog",
-      "message": "Ne futtassa az AdBlockot..."
+      "message": "Ne futtassa az ArtBlockot..."
    },
    "whitelisteverycontaining": {
       "description": "resourceblocking page string",
@@ -1121,10 +1121,10 @@
    },
    "you_can_slide_to_change": {
       "description": "Instructions for how to use the whitelister slider controls.  Sometimes only one slider will show, and sometimes two will show, and if possible the text should handle both cases.",
-      "message": "A cs\u00FAszka cs\u00FAsztat\u00E1s\u00E1val adhatja meg, pontosan mely oldalakon ne fusson az AdBlock."
+      "message": "A cs\u00FAszka cs\u00FAsztat\u00E1s\u00E1val adhatja meg, pontosan mely oldalakon ne fusson az ArtBlock."
    },
    "you_know_thats_a_bad_idea_right": {
       "description": "Confirmation message shown to user if they try to subscribe to too many lists. The user will have two options: OK and Cancel.",
-      "message": "Min\u00E9l t\u00F6bb sz\u0171r\u0151 list\u00E1t haszn\u00E1l, ann\u00E1l lassabb lesz az AdBlock. T\u00FAl sok lista haszn\u00E1lata egyes weboldalakon ak\u00E1r a b\u00F6ng\u00E9sz\u0151 \u00F6sszeoml\u00E1s\u00E1hoz is vezethet. Nyomja meg az OK-t, ha mindenk\u00E9pp fel akar iratkozni a list\u00E1ra."
+      "message": "Min\u00E9l t\u00F6bb sz\u0171r\u0151 list\u00E1t haszn\u00E1l, ann\u00E1l lassabb lesz az ArtBlock. T\u00FAl sok lista haszn\u00E1lata egyes weboldalakon ak\u00E1r a b\u00F6ng\u00E9sz\u0151 \u00F6sszeoml\u00E1s\u00E1hoz is vezethet. Nyomja meg az OK-t, ha mindenk\u00E9pp fel akar iratkozni a list\u00E1ra."
    }
 }

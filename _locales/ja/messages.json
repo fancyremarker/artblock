@@ -5,7 +5,7 @@
    },
    "adblockreportinganad": {
       "description": "title of ad report page",
-      "message": "AdBlock - \u6D88\u3048\u306A\u3044\u8981\u7D20\u3092\u5831\u544A\u3059\u308B\u524D\u306B"
+      "message": "ArtBlock - \u6D88\u3048\u306A\u3044\u8981\u7D20\u3092\u5831\u544A\u3059\u308B\u524D\u306B"
    },
    "adstillappear": {
       "description": "question on ad reporting page",
@@ -147,7 +147,7 @@
    },
    "checkinfirefox3": {
       "description": "instruction for how to check Firefox for a reported ad",
-      "message": "Firefox\u306BChrome\u306EAdBlock\u3068\u540C\u3058\u30D5\u30A3\u30EB\u30BF\u30FC\u30EA\u30B9\u30C8\u3092\u767B\u9332\u3057\u3066\u304F\u3060\u3055\u3044\u3002AdBlock Custom filters\u306F\u9664\u304D\u307E\u3059\u3002"
+      "message": "Firefox\u306BChrome\u306EArtBlock\u3068\u540C\u3058\u30D5\u30A3\u30EB\u30BF\u30FC\u30EA\u30B9\u30C8\u3092\u767B\u9332\u3057\u3066\u304F\u3060\u3055\u3044\u3002ArtBlock Custom filters\u306F\u9664\u304D\u307E\u3059\u3002"
    },
    "checkinfirefox4": {
       "description": "instruction for how to check Firefox for a reported ad",
@@ -175,7 +175,7 @@
    },
    "debuginlogoption": {
       "description": "Option on first tab page",
-      "message": "\u3010\u958B\u767A\u8005\u5411\u3051\u3011Show debug statements in Console Log (AdBlock\u306F\u91CD\u304F\u306A\u308A\u307E\u3059)"
+      "message": "\u3010\u958B\u767A\u8005\u5411\u3051\u3011Show debug statements in Console Log (ArtBlock\u306F\u91CD\u304F\u306A\u308A\u307E\u3059)"
    },
    "failedtofetchfilter": {
       "description": "Error messagebox",
@@ -186,7 +186,7 @@
       "message": "\u53D6\u5F97\u4E2D..."
    },
    "filteradblock_custom": {
-      "description": "A filter list. Don't translate 'AdBlock'",
+      "description": "A filter list. Don't translate 'ArtBlock'",
       "message": "AdBlock custom filters (\u63A8\u5968)"
    },
    "filterczech": {
@@ -287,7 +287,7 @@
    },
    "installedtitle": {
       "description": "Title for the installation success page",
-      "message": "AdBlock\u306E\u30A4\u30F3\u30B9\u30C8\u30FC\u30EB\u304C\u5B8C\u4E86\u3057\u307E\u3057\u305F\u3002"
+      "message": "ArtBlock\u306E\u30A4\u30F3\u30B9\u30C8\u30FC\u30EB\u304C\u5B8C\u4E86\u3057\u307E\u3057\u305F\u3002"
    },
    "labelshow": {
       "description": "The label when you click the 'show links to filter lists' option",
@@ -391,7 +391,7 @@
    },
    "optionstitle": {
       "description": "Title for the options page",
-      "message": "AdBlock Options"
+      "message": "ArtBlock Options"
    },
    "optionsversion": {
       "description": "Version number",
@@ -465,7 +465,7 @@
    },
    "showcontextmenus": {
       "description": "Option on first tab page",
-      "message": "\u53F3\u30AF\u30EA\u30C3\u30AF\u30E1\u30CB\u30E5\u30FC\u306BAdBlock\u30E1\u30CB\u30E5\u30FC\u3092\u8FFD\u52A0\u3059\u308B"
+      "message": "\u53F3\u30AF\u30EA\u30C3\u30AF\u30E1\u30CB\u30E5\u30FC\u306BArtBlock\u30E1\u30CB\u30E5\u30FC\u3092\u8FFD\u52A0\u3059\u308B"
    },
    "showlinkstolists": {
       "description": "Option on second tab page",
@@ -575,7 +575,7 @@
    },
    "updatefromoldversion": {
       "description": "ad report page instruction",
-      "message": "\u6700\u65B0\u306EAdBlock\u304C\u30EA\u30EA\u30FC\u30B9\u3055\u308C\u3066\u3044\u307E\u3059\u3002\u307E\u305A\u306F$updatelink$\u3092\u8A66\u3057\u3066\u4E0B\u3055\u3044\u3002",
+      "message": "\u6700\u65B0\u306EArtBlock\u304C\u30EA\u30EA\u30FC\u30B9\u3055\u308C\u3066\u3044\u307E\u3059\u3002\u307E\u305A\u306F$updatelink$\u3092\u8A66\u3057\u3066\u4E0B\u3055\u3044\u3002",
       "placeholders": {
          "updatelink": {
             "content": "$1\u30A2\u30C3\u30D7\u30C7\u30FC\u30C8$2",

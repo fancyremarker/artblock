@@ -5,7 +5,7 @@
    },
    "adblockreportinganad": {
       "description": "title of ad report page",
-      "message": "AdBlock - Reportando propaganda"
+      "message": "ArtBlock - Reportando propaganda"
    },
    "adstillappear": {
       "description": "question on ad reporting page",
@@ -147,11 +147,11 @@
    },
    "checkinfirefox2": {
       "description": "instruction for how to check Firefox for a reported ad",
-      "message": "Instale o AdBlock para Firefox caso voc\u00EA n\u00E3o o tenha."
+      "message": "Instale o ArtBlock para Firefox caso voc\u00EA n\u00E3o o tenha."
    },
    "checkinfirefox3": {
       "description": "instruction for how to check Firefox for a reported ad",
-      "message": "No Firefox, inscreva-se nas mesmas listas de filtro que voc\u00EA utiliza aqui (exceto os filtros customizados do AdBlock)."
+      "message": "No Firefox, inscreva-se nas mesmas listas de filtro que voc\u00EA utiliza aqui (exceto os filtros customizados do ArtBlock)."
    },
    "checkinfirefox4": {
       "description": "instruction for how to check Firefox for a reported ad",
@@ -179,7 +179,7 @@
    },
    "debuginlogoption": {
       "description": "Option on first tab page",
-      "message": "Mostrar mensagens de Debug nos Logs do Console (deixar\u00E1 o AdBlock um pouco lento)"
+      "message": "Mostrar mensagens de Debug nos Logs do Console (deixar\u00E1 o ArtBlock um pouco lento)"
    },
    "failedtofetchfilter": {
       "description": "Error messagebox",
@@ -190,8 +190,8 @@
       "message": "Carregando... por favor aguarde."
    },
    "filteradblock_custom": {
-      "description": "A filter list. Don't translate 'AdBlock'",
-      "message": "Filtros personalizados do AdBlock (recomendado)"
+      "description": "A filter list. Don't translate 'ArtBlock'",
+      "message": "Filtros personalizados do ArtBlock (recomendado)"
    },
    "filterczech": {
       "description": "A filter list",
@@ -575,7 +575,7 @@
    },
    "updatefromoldversion": {
       "description": "ad report page instruction",
-      "message": "Voc\u00EA est\u00E1 usando uma vers\u00E3o antiga do AdBlock. Visite $updatelink$ para atualizar para a vers\u00E3o atual",
+      "message": "Voc\u00EA est\u00E1 usando uma vers\u00E3o antiga do ArtBlock. Visite $updatelink$ para atualizar para a vers\u00E3o atual",
       "placeholders": {
          "updatelink": {
             "content": "$1este link$2",

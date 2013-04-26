@@ -5,7 +5,7 @@
    },
    "adblockreportinganad": {
       "description": "title of ad report page",
-      "message": "AdBlock - Zg\u0142aszanie reklamy"
+      "message": "ArtBlock - Zg\u0142aszanie reklamy"
    },
    "addthisfilter": {
       "description": "resourceblocking page string",
@@ -159,7 +159,7 @@
    },
    "checkinfirefox3": {
       "description": "instruction for how to check Firefox for a reported ad",
-      "message": "Korzystaj\u0105c z przegl\u0105darki Firefox, subskrybuj te same listy filtr\u00F3w co w AdBlock (z wyj\u0105tkiem AdBlock custom filters)."
+      "message": "Korzystaj\u0105c z przegl\u0105darki Firefox, subskrybuj te same listy filtr\u00F3w co w ArtBlock (z wyj\u0105tkiem AdBlock custom filters)."
    },
    "checkinfirefox4": {
       "description": "instruction for how to check Firefox for a reported ad",
@@ -187,7 +187,7 @@
    },
    "debuginlogoption": {
       "description": "Option on first tab page",
-      "message": "Pokazuj komunikaty debugowania w logach konsoli (spowalnia AdBlock)"
+      "message": "Pokazuj komunikaty debugowania w logach konsoli (spowalnia ArtBlock)"
    },
    "did_you_know_this_is_my_full_time_job": {
       "description": "Text of a payment request link",
@@ -210,7 +210,7 @@
       "message": "Uzyskuj\u0119 subskrypcj\u0119... prosz\u0119 czeka\u0107."
    },
    "filteradblock_custom": {
-      "description": "A filter list. Don't translate 'AdBlock'",
+      "description": "A filter list. Don't translate 'ArtBlock'",
       "message": "AdBlock custom filters (zalecane)"
    },
    "filterczech": {
@@ -299,7 +299,7 @@
    },
    "fixityourself": {
       "description": "telling a user who won't report an ad to us how to handle it for herself",
-      "message": "Mo\u017Cesz nadal zablokowa\u0107 reklam\u0119 wy\u0142\u0105cznie dla siebie, dodaj\u0105c filtr w zak\u0142adce 'Czarna lista' na stronie 'Ustawienia AdBlock'."
+      "message": "Mo\u017Cesz nadal zablokowa\u0107 reklam\u0119 wy\u0142\u0105cznie dla siebie, dodaj\u0105c filtr w zak\u0142adce 'Czarna lista' na stronie 'Ustawienia ArtBlock'."
    },
    "generaloptions": {
       "description": "Title of first tab page",
@@ -310,12 +310,12 @@
       "message": "Lubi\u0119 reklamy tekstowe na li\u015Bcie wynik\u00F3w wyszukiwania Google, nie blokuj ich."
    },
    "hide_this_button": {
-      "description": "Toolbar button menu entry to hide the AdBlock button",
+      "description": "Toolbar button menu entry to hide the ArtBlock button",
       "message": "Ukryj ten przycisk"
    },
    "installedtitle": {
       "description": "Title for the installation success page",
-      "message": "AdBlock jest ju\u017C zainstalowany!"
+      "message": "ArtBlock jest ju\u017C zainstalowany!"
    },
    "labelshow": {
       "description": "The label when you click the 'show links to filter lists' option",
@@ -448,8 +448,8 @@
       "message": "W jakim j\u0119zyku jest napisana ta strona?"
    },
    "pause_adblock": {
-      "description": "Menu entry to pause AdBlock.",
-      "message": "Wstrzymaj prac\u0119 AdBlock"
+      "description": "Menu entry to pause ArtBlock.",
+      "message": "Wstrzymaj prac\u0119 ArtBlock"
    },
    "refusetocheck": {
       "description": "user is telling us they don't wish to investigate something for us",
@@ -516,8 +516,8 @@
       "message": "Krok 1: Okre\u015Bl co zablokowa\u0107"
    },
    "status_paused": {
-      "description": "Message shown in toolbar button when AdBlock is paused.",
-      "message": "Praca AdBlock wstrzymana."
+      "description": "Message shown in toolbar button when ArtBlock is paused.",
+      "message": "Praca ArtBlock wstrzymana."
    },
    "subscribebutton": {
       "description": "subscribe to a list button",
@@ -558,7 +558,7 @@
       }
    },
    "unpause": {
-      "description": "Link text to unpause AdBlock, displayed immediately after 'status_paused'.",
+      "description": "Link text to unpause ArtBlock, displayed immediately after 'status_paused'.",
       "message": "uruchom"
    },
    "unsubscribedlabel": {
@@ -623,7 +623,7 @@
    },
    "updatefromoldversion": {
       "description": "ad report page instruction",
-      "message": "Korzystasz ze starej wersji AdBlock. Najpierw $updatelink$ rozszerzenie AdBlock.",
+      "message": "Korzystasz ze starej wersji ArtBlock. Najpierw $updatelink$ rozszerzenie ArtBlock.",
       "placeholders": {
          "updatelink": {
             "content": "$uaktualnij$2",

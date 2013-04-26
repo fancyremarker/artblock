@@ -5,19 +5,19 @@
    },
    "adblock_auto_removes_ads_thats_all": {
       "description": "Install page: explaining how to use adblock.",
-      "message": "AdBlock automaticky odstra\u0148uje reklamy. To je v\u0161e, k \u010Demu slou\u017E\u00ED."
+      "message": "ArtBlock automaticky odstra\u0148uje reklamy. To je v\u0161e, k \u010Demu slou\u017E\u00ED."
    },
    "adblock_is_paused": {
       "description": "resourceblocking page string",
-      "message": "AdBlock je pozastaven. Proto\u017Ee nebyly zachyceny \u017E\u00E1dn\u00E9 prvky, nen\u00ED mo\u017En\u00E9 tuto str\u00E1nku pou\u017E\u00EDt. Nejprve spus\u0165te AdBlock a pak to zkuste znovu."
+      "message": "ArtBlock je pozastaven. Proto\u017Ee nebyly zachyceny \u017E\u00E1dn\u00E9 prvky, nen\u00ED mo\u017En\u00E9 tuto str\u00E1nku pou\u017E\u00EDt. Nejprve spus\u0165te ArtBlock a pak to zkuste znovu."
    },
    "adblock_wont_run_on_pages_matching": {
       "description": "Message displayed when the whitelister dialog will whitelist part of an entire website, for example '*.google.com/reader/*'. The URL will appear on the next line.",
-      "message": "AdBlock se nebude spou\u0161t\u011Bt na \u017E\u00E1dn\u00E9 str\u00E1nce odpov\u00EDdaj\u00EDc\u00ED:"
+      "message": "ArtBlock se nebude spou\u0161t\u011Bt na \u017E\u00E1dn\u00E9 str\u00E1nce odpov\u00EDdaj\u00EDc\u00ED:"
    },
    "adblockreportinganad": {
       "description": "title of ad report page",
-      "message": "AdBlock - Nahl\u00E1\u0161en\u00ED reklamy"
+      "message": "ArtBlock - Nahl\u00E1\u0161en\u00ED reklamy"
    },
    "addthisfilter": {
       "description": "resourceblocking page string",
@@ -229,7 +229,7 @@
    },
    "checkinfirefox3": {
       "description": "instruction for how to check Firefox for a reported ad",
-      "message": "V prohl\u00ED\u017Ee\u010Di Firefox se p\u0159ihlaste k odb\u011Bru stejn\u00FDch seznam\u016F filtr\u016F, jako m\u00E1te zde (mimo AdBlock vlastn\u00ED filtry)."
+      "message": "V prohl\u00ED\u017Ee\u010Di Firefox se p\u0159ihlaste k odb\u011Bru stejn\u00FDch seznam\u016F filtr\u016F, jako m\u00E1te zde (mimo ArtBlock vlastn\u00ED filtry)."
    },
    "checkinfirefox4": {
       "description": "instruction for how to check Firefox for a reported ad",
@@ -240,7 +240,7 @@
       "message": "Zobrazuje se reklama v prohl\u00ED\u017Ee\u010Di Firefox?"
    },
    "chromebutton_how_to_hide": {
-      "description": "Message explaining how to hide the AdBlock toolbar button. 'Hide Button' should match the text that Chrome displays when you right click a toolbar button.",
+      "description": "Message explaining how to hide the ArtBlock toolbar button. 'Hide Button' should match the text that Chrome displays when you right click a toolbar button.",
       "message": "Chcete-li skr\u00FDt tla\u010D\u00EDtko, klikn\u011Bte na n\u011Bj prav\u00FDm tla\u010D\u00EDtkem my\u0161i a vyberte p\u0159\u00EDkaz Skr\u00FDt tla\u010D\u00EDtko. M\u016F\u017Eete jej op\u011Bt zobrazit kliknut\u00EDm na 'Kl\u00ED\u010D' | N\u00E1stroje | Roz\u0161\u00ED\u0159en\u00ED."
    },
    "cleanuplist": {
@@ -285,7 +285,7 @@
    },
    "debuginlogoption": {
       "description": "Option on first tab page",
-      "message": "Zobrazovat debug zpr\u00E1vy v Console Log (tohle zpomaluje AdBlock)"
+      "message": "Zobrazovat debug zpr\u00E1vy v Console Log (tohle zpomaluje ArtBlock)"
    },
    "description1": {
       "description": "Extension description in manifest",
@@ -297,11 +297,11 @@
    },
    "disabled_by_filter_lists": {
       "description": "Message shown when a user tries to unwhitelist a web page that has been whitelisted by a rule in a subscribed filter list.",
-      "message": "Promi\u0148te, ale AdBlock je na t\u00E9to str\u00E1nce zak\u00E1z\u00E1n jedn\u00EDm z va\u0161ich seznam\u016F filtr\u016F."
+      "message": "Promi\u0148te, ale ArtBlock je na t\u00E9to str\u00E1nce zak\u00E1z\u00E1n jedn\u00EDm z va\u0161ich seznam\u016F filtr\u016F."
    },
    "disabled_on_this_page": {
       "description": "Message shown in toolbar button on web pages that have been whitelisted.",
-      "message": "AdBlock je zak\u00E1z\u00E1n na t\u00E9to str\u00E1nce."
+      "message": "ArtBlock je zak\u00E1z\u00E1n na t\u00E9to str\u00E1nce."
    },
    "done": {
       "description": "Install page: appended to the 'installing_adblock' message once the progress bar reaches 100%",
@@ -321,7 +321,7 @@
    },
    "excludedomainorurl": {
       "description": "Message of the exclude area",
-      "message": "Dom\u00E9na nebo url, kde AdBlock nesm\u00ED nic blokovat"
+      "message": "Dom\u00E9na nebo url, kde ArtBlock nesm\u00ED nic blokovat"
    },
    "excludefilterremoved": {
       "description": "Warning when a page exclusion rule was removed in resourceblock.html",
@@ -341,11 +341,11 @@
    },
    "filecleanerwarning": {
       "description": "Help for users who use hyperactive file cleaners",
-      "message": "Pokud vid\u00EDte tuto zpr\u00E1vu p\u0159i ka\u017Ed\u00E9m spu\u0161t\u011Bn\u00ED AdBlock, ujist\u011Bte se, \u017Ee nepou\u017E\u00EDv\u00E1te souborov\u00FD \u010Disti\u010D, kter\u00FD tak\u00E9 \u010Dist\u00ED 'LocalStorage' soubory."
+      "message": "Pokud vid\u00EDte tuto zpr\u00E1vu p\u0159i ka\u017Ed\u00E9m spu\u0161t\u011Bn\u00ED ArtBlock, ujist\u011Bte se, \u017Ee nepou\u017E\u00EDv\u00E1te souborov\u00FD \u010Disti\u010D, kter\u00FD tak\u00E9 \u010Dist\u00ED 'LocalStorage' soubory."
    },
    "filteradblock_custom": {
-      "description": "A filter list. Don't translate 'AdBlock'",
-      "message": "AdBlock filtry (doporu\u010Deno)"
+      "description": "A filter list. Don't translate 'ArtBlock'",
+      "message": "ArtBlock filtry (doporu\u010Deno)"
    },
    "filterchinese": {
       "description": "A filter list. If it's the filter list for your language, please add '(recommended)'",
@@ -506,12 +506,12 @@
       "message": "N\u00E1pov\u011Bda a pomoc"
    },
    "hide_this_button": {
-      "description": "Toolbar button menu entry to hide the AdBlock button",
+      "description": "Toolbar button menu entry to hide the ArtBlock button",
       "message": "Skr\u00FDt toto tla\u010D\u00EDtko"
    },
    "how_to_use_adblock": {
       "description": "Install page section title",
-      "message": "Jak pou\u017E\u00EDvat AdBlock:"
+      "message": "Jak pou\u017E\u00EDvat ArtBlock:"
    },
    "i_like_googles_text_ads_dont_block_those": {
       "description": "Install page text; slightly shorter than the 'googletextads' message.",
@@ -523,11 +523,11 @@
    },
    "installedtitle": {
       "description": "Title for the installation success page",
-      "message": "AdBlock je nyn\u00ED nainstalov\u00E1n!"
+      "message": "ArtBlock je nyn\u00ED nainstalov\u00E1n!"
    },
    "installing_adblock": {
       "description": "Install page: shown while progress bar loads",
-      "message": "Instaluji AdBlock..."
+      "message": "Instaluji ArtBlock..."
    },
    "invalidListUrl": {
       "description": "Message when you subscribe to a non-list URL",
@@ -699,14 +699,14 @@
    },
    "now_you_have_adblock_hooray": {
       "description": "Install page title. 'Hooray' is a silly word shouted when you are excited, for example if your team just won a game.",
-      "message": "Nyn\u00ED m\u00E1te AdBlock! Hur\u00E1\u00E1\u00E1!"
+      "message": "Nyn\u00ED m\u00E1te ArtBlock! Hur\u00E1\u00E1\u00E1!"
    },
    "ok_autoupdate_is_on": {
       "description": "Install page: text of button to press after turning on autoupdate.",
       "message": "OK, automatick\u00E9 aktualizace jsou zapnuty"
    },
    "ok_now_what": {
-      "description": "Install page: text of button to press after learning how to use AdBlock. 'Now what?' is a slang expression meaning 'I have done everything you have asked so far; what do I do next?'",
+      "description": "Install page: text of button to press after learning how to use ArtBlock. 'Now what?' is a slang expression meaning 'I have done everything you have asked so far; what do I do next?'",
       "message": "OK, a co te\u010F? "
    },
    "only_block_ads_on_these_sites": {
@@ -731,7 +731,7 @@
    },
    "optionstitle": {
       "description": "Title for the options page",
-      "message": "AdBlock Nastaven\u00ED"
+      "message": "ArtBlock Nastaven\u00ED"
    },
    "optionsversion": {
       "description": "Version number",
@@ -756,15 +756,15 @@
       "message": "V jak\u00E9m jazyce je str\u00E1nka naps\u00E1na?"
    },
    "pause_adblock": {
-      "description": "Menu entry to pause AdBlock.",
-      "message": "Pozastavit AdBlock"
+      "description": "Menu entry to pause ArtBlock.",
+      "message": "Pozastavit ArtBlock"
    },
    "please_fill_out_adblocks_one_question_setup": {
       "description": "Install page instructions. The one question is a checkbox.",
-      "message": "Pros\u00EDm, dokon\u010Dete jednoduch\u00E9 nastaven\u00ED AdBlock:"
+      "message": "Pros\u00EDm, dokon\u010Dete jednoduch\u00E9 nastaven\u00ED ArtBlock:"
    },
    "project_home": {
-      "description": "Text of link to the AdBlock open source project homepage (not the install page)",
+      "description": "Text of link to the ArtBlock open source project homepage (not the install page)",
       "message": "Hlavn\u00ED str\u00E1nka projektu"
    },
    "refusetocheck": {
@@ -841,7 +841,7 @@
    },
    "safari50_updatenotice": {
       "description": "A message shown to Safari 5.0 users urging them to upgrade",
-      "message": "Pou\u017E\u00EDv\u00E1te starou verzi Safari. Z\u00EDskejte nejnov\u011Bj\u0161\u00ED verzi, abyste mohli pou\u017E\u00EDvat tla\u010D\u00EDtko AdBlock na panelu n\u00E1stroj\u016F pro pozastaven\u00ED AdBlock, spravovat chov\u00E1n\u00ED na webov\u00FDch str\u00E1nk\u00E1ch a nahla\u0161ovat reklamy. \u003Ca\u003EAktualizovat nyn\u00ED\u003C/a\u003E."
+      "message": "Pou\u017E\u00EDv\u00E1te starou verzi Safari. Z\u00EDskejte nejnov\u011Bj\u0161\u00ED verzi, abyste mohli pou\u017E\u00EDvat tla\u010D\u00EDtko ArtBlock na panelu n\u00E1stroj\u016F pro pozastaven\u00ED ArtBlock, spravovat chov\u00E1n\u00ED na webov\u00FDch str\u00E1nk\u00E1ch a nahla\u0161ovat reklamy. \u003Ca\u003EAktualizovat nyn\u00ED\u003C/a\u003E."
    },
    "savebutton": {
       "description": "Save button",
@@ -861,7 +861,7 @@
    },
    "set_up_adblock": {
       "description": "Install page: section title",
-      "message": "Nastavte AdBlock"
+      "message": "Nastavte ArtBlock"
    },
    "show_ads_except_for": {
       "description": "Section title for blacklisting section of Customize tab",
@@ -893,11 +893,11 @@
    },
    "status_disabled": {
       "description": "Message shown in toolbar button on web pages that disallow extensions, such as the Extensions Gallery or about:blank.",
-      "message": "AdBlock nelze spustit na t\u00E9to dom\u00E9n\u011B."
+      "message": "ArtBlock nelze spustit na t\u00E9to dom\u00E9n\u011B."
    },
    "status_paused": {
-      "description": "Message shown in toolbar button when AdBlock is paused.",
-      "message": "AdBlock je pozastaven."
+      "description": "Message shown in toolbar button when ArtBlock is paused.",
+      "message": "ArtBlock je pozastaven."
    },
    "stop_blocking_ads": {
       "description": "Section header on third tab",
@@ -905,7 +905,7 @@
    },
    "storage_quota_exceeded": {
       "description": "Message shown when the user uses more storage than allowed by the browser",
-      "message": "P\u0159ekro\u010Dili jste ukl\u00E1dac\u00ED prostor, kter\u00FD AdBlock m\u016F\u017Ee pou\u017E\u00EDt. Pros\u00EDm, odhlaste odb\u011Br n\u011Bkter\u00FDch seznam\u016F filtr\u016F!"
+      "message": "P\u0159ekro\u010Dili jste ukl\u00E1dac\u00ED prostor, kter\u00FD ArtBlock m\u016F\u017Ee pou\u017E\u00EDt. Pros\u00EDm, odhlaste odb\u011Br n\u011Bkter\u00FDch seznam\u016F filtr\u016F!"
    },
    "subscribe_unsubscribe_all": {
       "description": "Link in the button",
@@ -943,7 +943,7 @@
    },
    "tabcustomizetitle": {
       "description": "Title of the third tab",
-      "message": "P\u0159izp\u016Fsobte si AdBlock"
+      "message": "P\u0159izp\u016Fsobte si ArtBlock"
    },
    "tabfilterlists": {
       "description": "A tab on the options page",
@@ -1042,7 +1042,7 @@
       "message": "xmlhttprequest"
    },
    "unpause": {
-      "description": "Link text to unpause AdBlock, displayed immediately after 'status_paused'.",
+      "description": "Link text to unpause ArtBlock, displayed immediately after 'status_paused'.",
       "message": "spustit"
    },
    "unsubscribedlabel": {
@@ -1107,7 +1107,7 @@
    },
    "updatefromoldversion": {
       "description": "ad report page instruction",
-      "message": "Pou\u017E\u00EDv\u00E1te zastaralou verzi AdBlock. Pros\u00EDm, nejprve mus\u00EDte $updatelink$ AdBlock na nejnov\u011Bj\u0161\u00ED verzi",
+      "message": "Pou\u017E\u00EDv\u00E1te zastaralou verzi ArtBlock. Pros\u00EDm, nejprve mus\u00EDte $updatelink$ ArtBlock na nejnov\u011Bj\u0161\u00ED verzi",
       "placeholders": {
          "updatelink": {
             "content": "$1aktualizovat$2",
@@ -1129,7 +1129,7 @@
    },
    "whitelistertitle2": {
       "description": "The title of the whitelister dialog",
-      "message": "Nespou\u0161t\u011Bt AdBlock na..."
+      "message": "Nespou\u0161t\u011Bt ArtBlock na..."
    },
    "whitelisteverycontaining": {
       "description": "resourceblocking page string",
@@ -1145,10 +1145,10 @@
    },
    "you_can_slide_to_change": {
       "description": "Instructions for how to use the whitelister slider controls. Sometimes only one slider will show, and sometimes two will show, and if possible the text should handle both cases.",
-      "message": "Nastaven\u00EDm posuvn\u00EDku n\u00ED\u017Ee vyberte p\u0159esn\u011B ty str\u00E1nky, kde se AdBlock nebude spou\u0161t\u011Bt."
+      "message": "Nastaven\u00EDm posuvn\u00EDku n\u00ED\u017Ee vyberte p\u0159esn\u011B ty str\u00E1nky, kde se ArtBlock nebude spou\u0161t\u011Bt."
    },
    "you_know_thats_a_bad_idea_right": {
       "description": "Confirmation message shown to user if they try to subscribe to too many lists. The user will have two options: OK and Cancel.",
-      "message": "\u010C\u00EDm v\u00EDce seznam\u016F filtr\u016F si p\u0159ihl\u00E1s\u00EDte, t\u00EDm pomaleji AdBlock pob\u011B\u017E\u00ED. Pou\u017Eit\u00ED p\u0159\u00EDli\u0161 mnoha seznam\u016F dokonce m\u016F\u017Ee m\u00EDt za n\u00E1sledek p\u00E1d prohl\u00ED\u017Ee\u010De na n\u011Bkter\u00FDch webov\u00FDch str\u00E1nk\u00E1ch. Pro potvrzen\u00ED p\u0159ihl\u00E1\u0161en\u00ED stiskn\u011Bte tla\u010D\u00EDtko OK."
+      "message": "\u010C\u00EDm v\u00EDce seznam\u016F filtr\u016F si p\u0159ihl\u00E1s\u00EDte, t\u00EDm pomaleji ArtBlock pob\u011B\u017E\u00ED. Pou\u017Eit\u00ED p\u0159\u00EDli\u0161 mnoha seznam\u016F dokonce m\u016F\u017Ee m\u00EDt za n\u00E1sledek p\u00E1d prohl\u00ED\u017Ee\u010De na n\u011Bkter\u00FDch webov\u00FDch str\u00E1nk\u00E1ch. Pro potvrzen\u00ED p\u0159ihl\u00E1\u0161en\u00ED stiskn\u011Bte tla\u010D\u00EDtko OK."
    }
 }

@@ -5,7 +5,7 @@
    },
    "adblockreportinganad": {
       "description": "title of ad report page",
-      "message": "AdBlock - Reportando un anuncio"
+      "message": "ArtBlock - Reportando un anuncio"
    },
    "adstillappear": {
       "description": "question on ad reporting page",
@@ -190,7 +190,7 @@
       "message": "Recibiendo..por favor, espera."
    },
    "filteradblock_custom": {
-      "description": "A filter list. Don't translate 'AdBlock'",
+      "description": "A filter list. Don't translate 'ArtBlock'",
       "message": "Filtros personalizados de Adblock (recomendado)"
    },
    "filterczech": {
@@ -575,7 +575,7 @@
    },
    "updatefromoldversion": {
       "description": "ad report page instruction",
-      "message": "Est\u00E1s usando una versi\u00F3n vieja de AdBlock. Por favor $updatelink$ a la nueva versi\u00F3n de Firefox",
+      "message": "Est\u00E1s usando una versi\u00F3n vieja de ArtBlock. Por favor $updatelink$ a la nueva versi\u00F3n de Firefox",
       "placeholders": {
          "updatelink": {
             "content": "$1actualiza$2",
