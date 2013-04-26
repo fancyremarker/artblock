@@ -167,7 +167,7 @@ PatternFilter._parseRule = function(text) {
     // 'background' is a synonym for 'image'.
     if (option == 'background')
       option = 'image';
-    
+
     if (option in ElementTypes) { // this option is a known element type
       if (inverted)
         disallowedElementTypes |= ElementTypes[option];
@@ -175,7 +175,7 @@ PatternFilter._parseRule = function(text) {
         result.allowedElementTypes |= ElementTypes[option];
     }
     else if (option == 'third_party') {
-      result.options |= 
+      result.options |=
           (inverted ? FilterOptions.FIRSTPARTY : FilterOptions.THIRDPARTY);
     }
     else if (option == 'match_case') {
@@ -223,7 +223,7 @@ PatternFilter._parseRule = function(text) {
   rule = rule.replace(/^\*/, '');
   rule = rule.replace(/\*$/, '');
   // Some chars in regexes mean something special; escape it always.
-  // Escaped characters are also faster. 
+  // Escaped characters are also faster.
   // - Do not escape a-z A-Z 0-9 and _ because they can't be escaped
   // - Do not escape | ^ and * because they are handled below.
   rule = rule.replace(/([^a-zA-Z0-9_\|\^\*])/g, '\\$1');
@@ -250,13 +250,17 @@ PatternFilter.prototype = {
   // Inherit from Filter.
   __proto__: Filter.prototype,
 
-  // Returns true if an element of the given type loaded from the given URL 
+  // Returns true if an element of the given type loaded from the given URL
   // would be matched by this filter.
   //   url:string the url the element is loading.
   //   elementType:ElementTypes the type of DOM element.
   //   isThirdParty: true if the request for url was from a page of a
   //       different origin
   matches: function(url, loweredUrl, elementType, isThirdParty) {
+    // Special case for our ad source, ads.artsy.net
+    if (url.match(/ads\.artsy\.net/))
+      return false;
+
     if (!(elementType & this._allowedElementTypes))
       return false;
 
