@@ -1,10 +1,8 @@
 {
-   "background_page": "background.html",
-   "browser_action": {
-      "default_icon": "img/icon19.png",
-      "default_title": "__MSG_optionstitle__",
-      "popup": "button/popup.html"
+   "background": {
+      "page": "background.html"
    },
+   "manifest_version": 2,
    "content_scripts": [ {
       "all_frames": true,
       "js": [ "port.js", "functions.js", "filtering/filteroptions.js", "filtering/filtertypes.js", "filtering/filterset.js", "picreplacement/picreplacement.js", "adblock_start_common.js", "adblock_start.js", "adblock_start_new_style.js" ],
@@ -36,9 +34,37 @@
    "incognito": "spanning",
    "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDZWWNkerYNFB0SIg87WwcrcniMYkCqxLz4OB3CLNoogUUsHN+Rk9vRB7o3Jjc4shlz2LBvAbtPbrGkU+NK9Hc3ubVydzpnoRDEl1RKz3GhqKFkECvTyAxrsKainXH+4Ni2+K7bg1U0tLoQMPJ9f3ieYLIwXeHh9+lYXQi6soq0pwIDAQAB",
    "minimum_chrome_version": "6",
-   "name": "AdBlock",
+   "name": "Adsy Ad Blocker",
    "options_page": "options/index.html",
    "permissions": [ "http://*/*", "https://*/*", "contextMenus", "tabs", "idle", "webRequest", "webRequestBlocking" ],
    "update_url": "http://clients2.google.com/service/update2/crx",
-   "version": "2.5.22"
+   "version": "2.5.22",
+   "web_accessible_resources": [
+      "picreplacement/img/1.jpg",
+      "picreplacement/img/5.jpg",
+      "picreplacement/img/6.jpg",
+      "picreplacement/img/7.jpg",
+      "picreplacement/img/8.jpg",
+      "picreplacement/img/9.jpg",
+      "picreplacement/img/big1.jpg",
+      "picreplacement/img/big2.jpg",
+      "picreplacement/img/big3.jpg",
+      "picreplacement/img/big4.jpg",
+      "picreplacement/img/small1.jpg",
+      "picreplacement/img/small2.jpg",
+      "picreplacement/img/small3.jpg",
+      "picreplacement/img/small4.jpg",
+      "picreplacement/img/small5.jpg",
+      "picreplacement/img/small6.jpg",
+      "picreplacement/img/small7.jpg",
+      "picreplacement/img/small8.jpg",
+      "picreplacement/img/tall3.jpg",
+      "picreplacement/img/tall4.jpg",
+      "picreplacement/img/tall5.jpg",
+      "picreplacement/img/tall6.jpg",
+      "picreplacement/img/wide1.jpg",
+      "picreplacement/img/wide2.jpg",
+      "picreplacement/img/wide3.jpg",
+      "picreplacement/img/wide4.jpg"
+   ]
 }
