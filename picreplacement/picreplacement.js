@@ -82,7 +82,7 @@ _replace: function(el) {
   iframe.style["border"] = "none";
   iframe.style["padding"] = "none";
   iframe.style["margin"] = "none";
-  iframe.style["float"] = (window.getComputedStyle(el)["float"] || undefined)
+  iframe.style["float"] = (window.getComputedStyle(el)["float"] || undefined);
 
   // No need to hide the replaced element -- regular AdBlock will do that.
   el.dataset.picreplacementreplaced = "true";
