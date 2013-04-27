@@ -6,11 +6,11 @@ ArtBlock is an ad-blocking Chrome extension based on the [AdBlock](https://code.
 Installation
 ------------
 
-To install, clone the repository:
+To install, clone the repository (or just download and extract the ZIP archive of the repository from [here](//github.com/macreery/artblock/archive/master.zip)):
 
-    git clone git@github.com:macreery/adblock.git
+    git clone git@github.com:macreery/artblock.git
 
-Now, visit the [Extensions](chrome://extensions/) page in Chrome, make sure "Developer mode" is checked, click "Load unpacked extension...", and select the "adblock" folder that you just cloned.
+Now, visit the [Extensions](chrome://extensions/) page in Chrome, make sure "Developer mode" is checked, click "Load unpacked extension...", and select the "artblock" folder that you just cloned.
 
 More Info
 ---------
@@ -23,7 +23,7 @@ More Info
 License
 -------
 
-ArtBlock is licensed for use under the [GPL v3](http://www.gnu.org/licenses/gpl.html).
+ArtBlock is free software, licensed for use under the [GPL v3](http://www.gnu.org/licenses/gpl.html).
 
 Authors
 -------
