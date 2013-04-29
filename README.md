@@ -1,7 +1,9 @@
 ArtBlock
 ========
 
-ArtBlock is an ad-blocking Chrome extension based on the [AdBlock](https://code.google.com/p/adblockforchrome/) extension. It replaces all ads with artwork images from [Artsy](http://artsy.net).
+ArtBlock is an ad-blocking Chrome extension based on the [AdBlock](https://code.google.com/p/adblockforchrome/) extension. It replaces all ads with artwork images from [Artsy](http://artsy.net). As an example, the top section of nytimes.com looks something like this with the extension enabled:
+
+![](/assets/nyt-example.png)
 
 Installation
 ------------
